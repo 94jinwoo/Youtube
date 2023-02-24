@@ -1,746 +1,1839 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "zH5liZpcikYeNGcT2oxIQ3xsfoA",
+  "etag": "4rAkcVnSGPLTjqu4oSzmAR2WbvA",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "MIl-Q4sYqh8lRN0hl_SLPKqFleE",
-      "id": "gHzuabZUd6c",
+      "etag": "WNZ0u6BHE24SySeJaF-tcFy2gkk",
+      "id": "dOp0oWFHUWw",
       "snippet": {
-        "publishedAt": "2022-09-24T19:59:59Z",
-        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-        "title": "Survive 100 Days In Circle, Win $500,000",
-        "description": "🤑 Sign up for Venmo and use the code MRBEAST to get $20 (no code needed if signing up on desktop). Get Venmo → http://venmo.me/mrbeast \n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------\n\nGet Cash Machine by Oliver Tree here: https://lickd.lnk.to/niQ4VsID!mrbeast\nLicense ID: r5Rqad9DRze\nGet this and other songs for your next YouTube video at https://lickd.co",
+        "publishedAt": "2023-02-23T00:00:01Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "더 글로리 파트2 | 공식 예고편 | 넷플릭스",
+        "description": "가혹한 희망, 더없는 폐허 그리고\n송혜교가 선사할 완벽한 지옥\n\n《더 글로리》 파트2 3월 10일, 오직 넷플릭스에서\n\n#넷플릭스 #더글로리_파트2 #TheGlory_Part2\n\n넷플릭스 채널 구독: https://bit.ly/2HUnqDr\n\nhttps://www.youtube.com/@NetflixKorea",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gHzuabZUd6c/default.jpg",
+            "url": "https://i.ytimg.com/vi/dOp0oWFHUWw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gHzuabZUd6c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dOp0oWFHUWw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gHzuabZUd6c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dOp0oWFHUWw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gHzuabZUd6c/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/dOp0oWFHUWw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gHzuabZUd6c/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dOp0oWFHUWw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "MrBeast",
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "tags": [
+          "Netflix",
+          "TheGlory",
+          "TheGloryPart2",
+          "강현남",
+          "거룩한",
+          "글로리",
+          "김건우",
+          "김은숙작가",
+          "김히어라",
+          "넷플릭스",
+          "넷플릭스시리즈",
+          "더글로리",
+          "더글로리파트2",
+          "드라마",
+          "문동은",
+          "박성훈",
+          "박연진",
+          "복수",
+          "비극",
+          "손명오",
+          "송혜교",
+          "안길호감독",
+          "염혜란",
+          "영광",
+          "용서",
+          "이도현",
+          "이사라",
+          "임지연",
+          "전재준",
+          "정성일",
+          "주여정",
+          "차주영",
+          "최혜정",
+          "하도영",
+          "학교폭력"
+        ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Survive 100 Days In Circle, Win $500,000",
-          "description": "🤑 Sign up for Venmo and use the code MRBEAST to get $20 (no code needed if signing up on desktop). Get Venmo → http://venmo.me/mrbeast \n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------\n\nGet Cash Machine by Oliver Tree here: https://lickd.lnk.to/niQ4VsID!mrbeast\nLicense ID: r5Rqad9DRze\nGet this and other songs for your next YouTube video at https://lickd.co"
+          "title": "더 글로리 파트2 | 공식 예고편 | 넷플릭스",
+          "description": "가혹한 희망, 더없는 폐허 그리고\n송혜교가 선사할 완벽한 지옥\n\n《더 글로리》 파트2 3월 10일, 오직 넷플릭스에서\n\n#넷플릭스 #더글로리_파트2 #TheGlory_Part2\n\n넷플릭스 채널 구독: https://bit.ly/2HUnqDr\n\nhttps://www.youtube.com/@NetflixKorea"
         },
         "defaultAudioLanguage": "en-US"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nxfx3OYN21gCrUy-KykL2pTpUnw",
-      "id": "qeo9iorAPj8",
+      "etag": "NYVlDdMvwNhoHJMrfcP6WRvWdx4",
+      "id": "0cWKAJFnBVA",
       "snippet": {
-        "publishedAt": "2022-09-25T14:00:33Z",
-        "channelId": "UCnmGIkw-KdI0W5siakKPKog",
-        "title": "I Built a Survival Shelter",
-        "description": "i am survival\nshopify free trial - https://shopify.com/ryantrahan\nhowdy howdy pre-order - https://howdyhowdy.com",
+        "publishedAt": "2023-02-20T13:30:10Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "[sub]🧳 EP.1-1ㅣ환영합니다 고객님^^ 노사 갈등 특효처방 '줄줄이 말해요'를 권해드려요ㅣ🧳출장십오야2 X 서진이네",
+        "description": "#이서진 #정유미 #박서준 #최우식 #김태형  #서진이네 #출장십오야2\n\n[Jinny's Kitchen] is available on Prime Video outside of Korea \n\n이젠 내가 사장 [서진이네] \n2/24 (금) 저녁 8:50 tvN 첫 방송!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qeo9iorAPj8/default.jpg",
+            "url": "https://i.ytimg.com/vi/0cWKAJFnBVA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qeo9iorAPj8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0cWKAJFnBVA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qeo9iorAPj8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Ryan Trahan",
-        "tags": [
-          "Ryan",
-          "Trahan",
-          "survival shelter",
-          "I built",
-          "solo overnight",
-          "overnight",
-          "solo"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "I Built a Survival Shelter",
-          "description": "i am survival\nshopify free trial - https://shopify.com/ryantrahan\nhowdy howdy pre-order - https://howdyhowdy.com"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Y-jXkUqgkSqvWahz1-B_J73OPT4",
-      "id": "HkDfIclJoHA",
-      "snippet": {
-        "publishedAt": "2022-09-25T15:00:20Z",
-        "channelId": "UCto7D1L-MiRoOziCXK9uT5Q",
-        "title": "I Broke Astroneer in Half Using Dynamite and Trains",
-        "description": "Download and play One Punch Man - The Strongest NOW! https://bit.ly/OPMLGIO and don't forget to use my code OPMTS. Join over 1 million players to fight alongside Saitama and be a hero for fun!\n\nJOIN MY STREAMS! ► https://www.twitch.tv/letsgameitout\n\nMerch!  ► http://bit.ly/LetsGameItOutStore\n\nSubscribe if you enjoy! ► http://bit.ly/letsgameitout_show\n\nTwitter ► https://twitter.com/letsgameitout\nFacebook ► https://www.facebook.com/letsgameitout\n\nWant more LGIO?!\n\nMore Simulator Mayhem ► https://www.youtube.com/watch?v=UqaNKNgSxYI&list=PLrBjj4brdIRzn3ja4BfqYUForg0p-p5wi\n\nFunny Tycoon Games ► https://www.youtube.com/watch?v=UqaNKNgSxYI&list=PLrBjj4brdIRwf14QPGmfDXCQQrDs860ig\n\nThe Finest One-Offs ► https://www.youtube.com/watch?v=zIOFGCbwJSs&list=PLrBjj4brdIRwKf72d6spk7fSHhwwYuQu1\n\nSome Truly Bizarre Games  ► https://www.youtube.com/watch?v=zIOFGCbwJSs&list=PLrBjj4brdIRyM5mUsHwPN0PH6UVNfeNl2\n\n#LetsGameItOut #Survival #Astroneer\n\nI Broke Astroneer in Half Using Dynamite and Trains - Let's Game It Out\n\n----------\n\nCheck it out on Steam ► https://store.steampowered.com/app/361420/ASTRONEER/\n\nMore about Astroneer (from Steam):\n\nExplore and reshape distant worlds! Astroneer is set during the 25th century Intergalactic Age of Discovery, where Astroneers explore the frontiers of outer space, risking their lives in harsh environments to unearth rare discoveries and unlock the mysteries of the universe.\n\nIn this space sandbox adventure, players can work together to build custom bases above or below ground, create vehicles to explore a vast solar system, and use terrain to create anything they can imagine. A player’s creativity and ingenuity are the key to thriving on exciting planetary adventures! In Astroneer you can:\nReshape the ground under your feet as though it were made of clay.\n\nIn Astroneer, players use their deform tool to dig, collect, shape and build anything they wish. Use this ability to dig to the center of the planet, build a ramp into the sky, or make megaliths just by using terrain!\nSurvive on and explore carefully crafted planets that can be entirely deformed and traversed.\n\nOur vast solar system includes 7 wondrous planets that players can travel between and explore every inch of, from the entire spherical surface, through treacherous layers of caves, all the way down to the mysterious core. Each of those planets has unique and challenging surface and cave biomes that offer a multitude of challenges for players on their journey.\nSnap together components and objects to build bases and vehicles.\n\nItems that Astroneers craft and find in the world can all be snapped and connected together to create unique creations for any situation. Customize and decorate your bases, vehicles, and Astroneer.\nPlay with friends in 4 player online drop-in/drop-out co-op.\n\nAstroneer is better with friends. Group up with other players and work together to create massive industrial bases or to create fun games in the extensive creative sandbox.\nDiscover and uncover the mysteries of the solar system.\n\nOnce Astroneers are ready, they may choose to attempt to understand and possibly harness the power behind mysterious structures found in the world.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HkDfIclJoHA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HkDfIclJoHA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HkDfIclJoHA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0cWKAJFnBVA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HkDfIclJoHA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0cWKAJFnBVA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HkDfIclJoHA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0cWKAJFnBVA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Let's Game It Out",
+        "channelTitle": "채널 십오야",
         "tags": [
-          "let's game it out",
-          "lets game it out",
-          "let game it out",
-          "let'sgameitout",
-          "letsgameitout",
-          "letgameitout",
-          "game it out",
-          "gameitout",
-          "lgio",
-          "josh let's game it out",
-          "let's game it out josh",
-          "lgio josh",
-          "josh lgio",
-          "let's game it out simulator",
-          "josh simulator",
-          "funny moments",
-          "astroneer",
-          "astroneer game",
-          "astroneer lgio",
-          "lets game it out astroneer",
-          "let's game it out astroneer",
-          "broke the game",
-          "broke astroneer",
-          "hydroneer game"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "I Broke Astroneer in Half Using Dynamite and Trains",
-          "description": "Download and play One Punch Man - The Strongest NOW! https://bit.ly/OPMLGIO and don't forget to use my code OPMTS. Join over 1 million players to fight alongside Saitama and be a hero for fun!\n\nJOIN MY STREAMS! ► https://www.twitch.tv/letsgameitout\n\nMerch!  ► http://bit.ly/LetsGameItOutStore\n\nSubscribe if you enjoy! ► http://bit.ly/letsgameitout_show\n\nTwitter ► https://twitter.com/letsgameitout\nFacebook ► https://www.facebook.com/letsgameitout\n\nWant more LGIO?!\n\nMore Simulator Mayhem ► https://www.youtube.com/watch?v=UqaNKNgSxYI&list=PLrBjj4brdIRzn3ja4BfqYUForg0p-p5wi\n\nFunny Tycoon Games ► https://www.youtube.com/watch?v=UqaNKNgSxYI&list=PLrBjj4brdIRwf14QPGmfDXCQQrDs860ig\n\nThe Finest One-Offs ► https://www.youtube.com/watch?v=zIOFGCbwJSs&list=PLrBjj4brdIRwKf72d6spk7fSHhwwYuQu1\n\nSome Truly Bizarre Games  ► https://www.youtube.com/watch?v=zIOFGCbwJSs&list=PLrBjj4brdIRyM5mUsHwPN0PH6UVNfeNl2\n\n#LetsGameItOut #Survival #Astroneer\n\nI Broke Astroneer in Half Using Dynamite and Trains - Let's Game It Out\n\n----------\n\nCheck it out on Steam ► https://store.steampowered.com/app/361420/ASTRONEER/\n\nMore about Astroneer (from Steam):\n\nExplore and reshape distant worlds! Astroneer is set during the 25th century Intergalactic Age of Discovery, where Astroneers explore the frontiers of outer space, risking their lives in harsh environments to unearth rare discoveries and unlock the mysteries of the universe.\n\nIn this space sandbox adventure, players can work together to build custom bases above or below ground, create vehicles to explore a vast solar system, and use terrain to create anything they can imagine. A player’s creativity and ingenuity are the key to thriving on exciting planetary adventures! In Astroneer you can:\nReshape the ground under your feet as though it were made of clay.\n\nIn Astroneer, players use their deform tool to dig, collect, shape and build anything they wish. Use this ability to dig to the center of the planet, build a ramp into the sky, or make megaliths just by using terrain!\nSurvive on and explore carefully crafted planets that can be entirely deformed and traversed.\n\nOur vast solar system includes 7 wondrous planets that players can travel between and explore every inch of, from the entire spherical surface, through treacherous layers of caves, all the way down to the mysterious core. Each of those planets has unique and challenging surface and cave biomes that offer a multitude of challenges for players on their journey.\nSnap together components and objects to build bases and vehicles.\n\nItems that Astroneers craft and find in the world can all be snapped and connected together to create unique creations for any situation. Customize and decorate your bases, vehicles, and Astroneer.\nPlay with friends in 4 player online drop-in/drop-out co-op.\n\nAstroneer is better with friends. Group up with other players and work together to create massive industrial bases or to create fun games in the extensive creative sandbox.\nDiscover and uncover the mysteries of the solar system.\n\nOnce Astroneers are ready, they may choose to attempt to understand and possibly harness the power behind mysterious structures found in the world."
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "HjRYXOsX5n_6GyPJTnsPRv6wmMw",
-      "id": "IxWSdUxb1ns",
-      "snippet": {
-        "publishedAt": "2022-09-25T02:10:18Z",
-        "channelId": "UCXwRxm0zS0jBNTMOVI6xZJw",
-        "title": "Tropical Storm Ian update: Cone shifts west with rapid intensification expected | Recorded 7pm 9/25",
-        "description": "Tropical Storm Ian continues to move through the Caribbean on its way to the Gulf of Mexico. On its current track, the system is expected to have an impact on the Gulf Coast next week.\r\n\r\nMore: https://www.khou.com/article/weather/hurricane/tracking-ian/285-46790bce-7189-49e5-adab-0b9516b971a4\n\nSubscribe to the KHOU 11 News YouTube Channel | https://bit.ly/2GCgSZ0\n\nKHOU Stands for Houston is our brand promise to celebrate everyday heroes, hold the powerful accountable and honor the core values of honesty and reliability. \n\nFollow KHOU 11 News on social!\nFACEBOOK: https://www.facebook.com/khou11\nTWITTER: https://www.twitter.com/khou\nINSTAGRAM: https://www.instagram.com/khou11\n\nVisit our website: https://www.khou11.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IxWSdUxb1ns/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IxWSdUxb1ns/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IxWSdUxb1ns/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IxWSdUxb1ns/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "KHOU 11",
-        "tags": [
-          "weather",
-          "tropical storm ian",
-          "tropical storm ian 2022",
-          "hurricane season",
-          "tracking the tropics",
-          "tropical storm",
-          "tropical storm ian path",
-          "tropics update",
-          "hurricane ian",
-          "tropical storm in 2022 path",
-          "tropical storm in philippines 2022",
-          "tropical storm in texas 2022",
-          "tropical storm in miami 2022",
-          "hurricane season 2022 update"
-        ],
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Tropical Storm Ian update: Cone shifts west with rapid intensification expected | Recorded 7pm 9/25",
-          "description": "Tropical Storm Ian continues to move through the Caribbean on its way to the Gulf of Mexico. On its current track, the system is expected to have an impact on the Gulf Coast next week.\r\n\r\nMore: https://www.khou.com/article/weather/hurricane/tracking-ian/285-46790bce-7189-49e5-adab-0b9516b971a4\n\nSubscribe to the KHOU 11 News YouTube Channel | https://bit.ly/2GCgSZ0\n\nKHOU Stands for Houston is our brand promise to celebrate everyday heroes, hold the powerful accountable and honor the core values of honesty and reliability. \n\nFollow KHOU 11 News on social!\nFACEBOOK: https://www.facebook.com/khou11\nTWITTER: https://www.twitter.com/khou\nINSTAGRAM: https://www.instagram.com/khou11\n\nVisit our website: https://www.khou11.com"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "stIFYVpXZI_ujKQ81fQ9rUAwDPI",
-      "id": "zwa7NzNBQig",
-      "snippet": {
-        "publishedAt": "2022-09-23T04:00:19Z",
-        "channelId": "UCmlkznD61Olu82oYGFr8gxg",
-        "title": "GloRilla, Cardi B - Tomorrow 2 (Official Music Video)",
-        "description": "Stream #Tomorrow2' here: \nhttps://GloRilla.lnk.to/Tomorrow2\n\nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTikTok: https://www.tiktok.com/t/ZTR6WV6SC/\nFacebook: https://www.facebook.com/gloyaltygirl\nTwitter: https://twitter.com/GloTheofficial\nFollow #CardiB:\nInstagram: https://www.instagram.com/iamcardib/\nTikTok: https://www.tiktok.com/@iamcardib\nFacebook: https://www.facebook.com/cardib\nTwitter: https://twitter.com/iamcardib/\n\n#Tomorrow2 #GloRilla #CardiB\n\nMusic video by GloRilla, Cardi B performing Tomorrow 2. © 2022 CMG Enterprises/Interscope Records\n\nhttp://vevo.ly/JKU3ao",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zwa7NzNBQig/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "GloRillaVEVO",
-        "tags": [
-          "GloRilla",
-          "Cardi",
-          "Tomorrow",
-          "CMG/Interscope",
-          "Records",
-          "Hip",
-          "Hop"
-        ],
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "GloRilla, Cardi B - Tomorrow 2 (Official Music Video)",
-          "description": "Stream #Tomorrow2' here: \nhttps://GloRilla.lnk.to/Tomorrow2\n\nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTikTok: https://www.tiktok.com/t/ZTR6WV6SC/\nFacebook: https://www.facebook.com/gloyaltygirl\nTwitter: https://twitter.com/GloTheofficial\nFollow #CardiB:\nInstagram: https://www.instagram.com/iamcardib/\nTikTok: https://www.tiktok.com/@iamcardib\nFacebook: https://www.facebook.com/cardib\nTwitter: https://twitter.com/iamcardib/\n\n#Tomorrow2 #GloRilla #CardiB\n\nMusic video by GloRilla, Cardi B performing Tomorrow 2. © 2022 CMG Enterprises/Interscope Records\n\nhttp://vevo.ly/JKU3ao"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "HUXR4I9qqqflX1qTmrBrKKom9r4",
-      "id": "4fikvcuirtY",
-      "snippet": {
-        "publishedAt": "2022-09-25T11:07:59Z",
-        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
-        "title": "BLACKPINK(블랙핑크) - Shut Down @인기가요 inkigayo 20220925",
-        "description": "BLACKPINK - Shut Down #SBSInkigayo_EP1155\n블랙핑크 - Shut Down #BLACKPINK #ShutDown\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4fikvcuirtY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4fikvcuirtY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4fikvcuirtY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "스브스케이팝 X INKIGAYO",
-        "tags": [
-          "Inkigayo",
-          "인기가요직캠",
-          "안방1열직캠",
-          "스브스케이팝",
-          "스브스 직캠",
-          "인기가요",
-          "인가",
-          "음방",
-          "음악방송",
-          "블랙핑크",
-          "BLACKPINK",
-          "Shut Down",
-          "블랙핑크 컴백",
-          "블랙핑크 정규",
-          "블랙핑크 인기가요",
-          "블랙핑크 인가",
-          "블랙핑크 무대",
-          "블랙핑크 안무",
-          "블랙핑크 직캠",
-          "블랙핑크 페이스캠",
-          "블랙핑크 풀캠",
-          "블랙핑크 신곡",
-          "핑크베놈",
-          "셧다운",
-          "지수",
-          "제니",
-          "로제",
-          "리사",
-          "JISOO",
-          "JENNIE",
-          "ROSÉ",
-          "LISA"
+          "나영석",
+          "나PD",
+          "아간세",
+          "아이슬란드간세끼",
+          "이수근",
+          "수근세끼",
+          "은지원",
+          "지원세끼",
+          "삼시세끼",
+          "세끼",
+          "신효정",
+          "나피디",
+          "묘한이",
+          "tvN",
+          "라끼남",
+          "라면",
+          "라면끼리는남자",
+          "강호동",
+          "양정우",
+          "육봉선생",
+          "6봉선생",
+          "라면먹방",
+          "마포멋쟁이",
+          "마포",
+          "멋쟁이",
+          "송민호",
+          "표지훈",
+          "민호",
+          "지훈",
+          "피오",
+          "MINO",
+          "PO",
+          "P.O",
+          "위너",
+          "WINNER",
+          "송표",
+          "표송",
+          "패션",
+          "패션유튜버",
+          "패션유튜브",
+          "삼시네세끼",
+          "달나라공약이행프로젝트",
+          "달나라프로젝트",
+          "달나라",
+          "젝스키스",
+          "젝키",
+          "Sechs Kies",
+          "슬의",
+          "슬기로운하드털이",
+          "슬의생",
+          "신원호",
+          "조정석",
+          "유연석",
+          "장겨울",
+          "hospitalplaylist",
+          "이식당",
+          "나홀로이식당",
+          "나노",
+          "우주",
+          "김준",
+          "어깨춤",
+          "언제까지어깨춤을추게할거야",
+          "규현",
+          "조규현",
+          "조정뱅이",
+          "슈퍼주니어",
+          "superjunior",
+          "슈주",
+          "악마는정남이를입는다",
+          "악마정남",
+          "배정남",
+          "출장십오야",
+          "출장",
+          "슬기로운캠핑생활",
+          "캠핑생활",
+          "슬캠",
+          "내과박원장",
+          "이서진",
+          "BH",
+          "BTS",
+          "하이브",
+          "hybe",
+          "스타쉽",
+          "starship",
+          "txt",
+          "르세라핌",
+          "lesserafim",
+          "세븐틴",
+          "seventeen",
+          "지구오락실",
+          "지락실",
+          "토롱이"
         ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ko",
         "localized": {
-          "title": "BLACKPINK(블랙핑크) - Shut Down @인기가요 inkigayo 20220925",
-          "description": "BLACKPINK - Shut Down #SBSInkigayo_EP1155\n블랙핑크 - Shut Down #BLACKPINK #ShutDown\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp"
+          "title": "[sub]🧳 EP.1-1ㅣ환영합니다 고객님^^ 노사 갈등 특효처방 '줄줄이 말해요'를 권해드려요ㅣ🧳출장십오야2 X 서진이네",
+          "description": "#이서진 #정유미 #박서준 #최우식 #김태형  #서진이네 #출장십오야2\n\n[Jinny's Kitchen] is available on Prime Video outside of Korea \n\n이젠 내가 사장 [서진이네] \n2/24 (금) 저녁 8:50 tvN 첫 방송!"
         },
         "defaultAudioLanguage": "ko"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aJDlNO4a2o0IYTaqZO46baXoRLo",
-      "id": "gl3bY6vME4w",
+      "etag": "ci8rzYciriAIYLUQkViIuR3cGRw",
+      "id": "rZBmc0TVHzo",
       "snippet": {
-        "publishedAt": "2022-09-25T14:01:28Z",
-        "channelId": "UC6107grRI4m0o2-emgoDnAA",
-        "title": "It Sinks FAST! Patrol With the US Coast Guard in Destin, FL - Smarter Every Day 277",
-        "description": "Go to https://brilliant.org/smartereveryday to sign up for free & the first 200 people get 20% off an annual premium subscription\n\nClick here if you're interested in subscribing: http://bit.ly/Subscribe2SED\n⇊  Click below for more links!  ⇊\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGET SMARTER SECTION\n(The Coast Guard didn't ask me to put their recruiting page here, but I thought it was appropriate)\n\nhttps://www.gocoastguard.com/Careers?gclid=Cj0KCQjw1bqZBhDXARIsANTjCPIF8Y1AwlmPJLcUkprbugczXgWDv3RLvDVQpO04ILQy90-vTWlzcskaAr_qEALw_wcB\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nTweet Ideas to me at:\nhttp://twitter.com/smartereveryday\n\nSmarter Every Day on Facebook\nhttps://www.facebook.com/SmarterEveryDay\n\nSmarter Every Day on Patreon\nhttp://www.patreon.com/smartereveryday\n\nSmarter Every Day On Instagram\nhttp://www.instagram.com/smartereveryday\n\nSmarter Every Day SubReddit\nhttp://www.reddit.com/r/smartereveryday\n\nAmbiance, audio and musicy things by: Gordon McGladdery \nhttps://www.ashellinthepit.com/\nhttp://ashellinthepit.bandcamp.com/\n\nIf you feel like this video was worth your time and added value to your life, please SHARE THE VIDEO!\n\nIf you REALLY liked it, feel free to pitch a few dollars Smarter Every Day by becoming a Patron.\nhttp://www.patreon.com/smartereveryday\n\nWarm Regards,\n\nDestin",
+        "publishedAt": "2023-02-23T08:32:30Z",
+        "channelId": "UC3m0s5XAQydCtbLHc8j1Uog",
+        "title": "[#박원숙의같이삽시다] '부모가 아니라 원수였구나..😭.' 평생의 한이 된 진성의 어린시절💔 | KBS 230221 방송",
+        "description": "#박원숙의같이삽시다 ✅ 화요일 오후 8시30분 KBS 2TV\n\n03:18 버스에 매달린 어린 조카를 발로 밀어버린 외삼촌?!🤬 \n11:13 '49세 늦깎이 결혼' 풀스토리💝\n\n#박원숙 #같이삽시다 #박원숙의같이삽시다\n#혜은이 #안소영 #안문숙 #진성\n\nKBS 공식 유튜브 채널 ➡️ https://www.youtube.com/@UC3m0s5XAQydCtbLHc8j1Uog",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gl3bY6vME4w/default.jpg",
+            "url": "https://i.ytimg.com/vi/rZBmc0TVHzo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gl3bY6vME4w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rZBmc0TVHzo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gl3bY6vME4w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rZBmc0TVHzo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gl3bY6vME4w/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/rZBmc0TVHzo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gl3bY6vME4w/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rZBmc0TVHzo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "SmarterEveryDay",
+        "channelTitle": "KBS 한국방송",
         "tags": [
-          "Smarter",
-          "Every",
-          "Day",
-          "Science",
-          "Physics",
-          "Destin",
-          "Sandlin",
-          "Education",
-          "Math",
-          "Smarter Every Day",
-          "experiment",
-          "nature",
-          "demonstration",
-          "slow",
-          "motion",
-          "slow motion",
-          "education",
-          "math",
-          "science",
-          "science education",
-          "what is science",
-          "Physics of",
-          "projects",
-          "experiments",
-          "science projects",
-          "Coast Guard",
-          "US Coast Guard",
-          "Rescue Patrol",
-          "Patrol",
-          "Boating",
-          "Rescue",
-          "Boat Rescue",
-          "Sinking Boat",
-          "Boat Wreck",
-          "Police"
+          "KBS",
+          "한국방송공사",
+          "mylovekbs",
+          "예고",
+          "티저",
+          "박원숙",
+          "박원숙의 같이삽시다",
+          "육아",
+          "이혼",
+          "재혼",
+          "결혼",
+          "돌싱",
+          "예능",
+          "옥천",
+          "노년",
+          "은퇴",
+          "안문숙",
+          "혜은이",
+          "안소영",
+          "실버",
+          "포항",
+          "진성",
+          "중년 결혼",
+          "내 인생에 태클을 걸지마",
+          "트롯",
+          "트로트",
+          "일꾼의탄생"
         ],
-        "categoryId": "28",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
         "localized": {
-          "title": "It Sinks FAST! Patrol With the US Coast Guard in Destin, FL - Smarter Every Day 277",
-          "description": "Go to https://brilliant.org/smartereveryday to sign up for free & the first 200 people get 20% off an annual premium subscription\n\nClick here if you're interested in subscribing: http://bit.ly/Subscribe2SED\n⇊  Click below for more links!  ⇊\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGET SMARTER SECTION\n(The Coast Guard didn't ask me to put their recruiting page here, but I thought it was appropriate)\n\nhttps://www.gocoastguard.com/Careers?gclid=Cj0KCQjw1bqZBhDXARIsANTjCPIF8Y1AwlmPJLcUkprbugczXgWDv3RLvDVQpO04ILQy90-vTWlzcskaAr_qEALw_wcB\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nTweet Ideas to me at:\nhttp://twitter.com/smartereveryday\n\nSmarter Every Day on Facebook\nhttps://www.facebook.com/SmarterEveryDay\n\nSmarter Every Day on Patreon\nhttp://www.patreon.com/smartereveryday\n\nSmarter Every Day On Instagram\nhttp://www.instagram.com/smartereveryday\n\nSmarter Every Day SubReddit\nhttp://www.reddit.com/r/smartereveryday\n\nAmbiance, audio and musicy things by: Gordon McGladdery \nhttps://www.ashellinthepit.com/\nhttp://ashellinthepit.bandcamp.com/\n\nIf you feel like this video was worth your time and added value to your life, please SHARE THE VIDEO!\n\nIf you REALLY liked it, feel free to pitch a few dollars Smarter Every Day by becoming a Patron.\nhttp://www.patreon.com/smartereveryday\n\nWarm Regards,\n\nDestin"
+          "title": "[#박원숙의같이삽시다] '부모가 아니라 원수였구나..😭.' 평생의 한이 된 진성의 어린시절💔 | KBS 230221 방송",
+          "description": "#박원숙의같이삽시다 ✅ 화요일 오후 8시30분 KBS 2TV\n\n03:18 버스에 매달린 어린 조카를 발로 밀어버린 외삼촌?!🤬 \n11:13 '49세 늦깎이 결혼' 풀스토리💝\n\n#박원숙 #같이삽시다 #박원숙의같이삽시다\n#혜은이 #안소영 #안문숙 #진성\n\nKBS 공식 유튜브 채널 ➡️ https://www.youtube.com/@UC3m0s5XAQydCtbLHc8j1Uog"
         },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "ko"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JdAev6BnoQqiNsFN707WEJqGjFQ",
-      "id": "ph3DDl8fDcQ",
+      "etag": "Jegri554sSlkWvIwGzQeA8YtX1I",
+      "id": "Hlk5OsGwLWU",
       "snippet": {
-        "publishedAt": "2022-09-24T23:19:05Z",
-        "channelId": "UCepPGz8AVCbggMl3BvboaBA",
-        "title": "Brewstew - Scariest Roller Coasters",
-        "description": "And of course, the video about when I actually did get stuck on a roller coaster\nhttps://www.youtube.com/watch?v=nXvo1oRqCfE\n\nMerch Store:\nhttps://teespring.com/stores/brewstew\n\nSpecial Thanks to the people that support me on Patreon!\nhttps://www.patreon.com/brewstew\n\nBrewstew.com\n\nFan Mail:\nP.O. Box 1\nLambertville, MI\n48144\n\nMusic:\nHidden Agenda Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/b...\n\nEnd Music by Mark Jay\n\nSound Effects:\nhttp://www.freesfx.co.uk/",
+        "publishedAt": "2023-02-23T15:03:25Z",
+        "channelId": "UC-uIpGINZDL-VIHQQzJW8jw",
+        "title": "[지구마불 비긴즈] (두근두근) 곽x빠x원의 첫 여행지는 어디?│지구마불 세계여행 | TEO",
+        "description": "네, 놀랍게도 거기 맞아요 ^^\n첫 황금열쇠로 여행 전부터 멘붕은 덤입니다 ^^\n\n아참 그리고, 여행 유튜버들은 여행갈 때, 꼭 XXX을 챙긴다던데..\n\n**영상 10분 44초대 자막 중 ROKA가 ROCA로 오기된 실수가 있었습니다.\n불편을 드려서 죄송합니다. 자막도 꼼꼼히 챙기는 테오 유니버스가 되겠습니다.\n\n주사위 던져서 세계 속으로 🌎지구마불 세계여행🌎\n🏷️ TEO 유튜브 매주 목요일 저녁 \n🏷️ TV판 ENA 3월 4일 토요일 저녁 7시 50분 \n\n#지구마불 #곽빠원어디가 #첫여행지공개 #지구마불세계여행 #곽튜브 #빠니보틀 #원지의하루 #TEO #테오 #김태호PD #세계여행 #ENA @teo.universe",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ph3DDl8fDcQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/Hlk5OsGwLWU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ph3DDl8fDcQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hlk5OsGwLWU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ph3DDl8fDcQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hlk5OsGwLWU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ph3DDl8fDcQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "brewstewfilms",
-        "tags": [
-          "brewstew",
-          "roller coaster",
-          "rollercoaster",
-          "cedar point",
-          "sandusky",
-          "cartoon",
-          "flash animation",
-          "animation",
-          "magnum",
-          "millennium force",
-          "top thrill dragster",
-          "amusement park",
-          "theme park",
-          "stick figure",
-          "storytime",
-          "funny story",
-          "scariest",
-          "scariest roller coasters",
-          "tallest roller coasters"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Brewstew - Scariest Roller Coasters",
-          "description": "And of course, the video about when I actually did get stuck on a roller coaster\nhttps://www.youtube.com/watch?v=nXvo1oRqCfE\n\nMerch Store:\nhttps://teespring.com/stores/brewstew\n\nSpecial Thanks to the people that support me on Patreon!\nhttps://www.patreon.com/brewstew\n\nBrewstew.com\n\nFan Mail:\nP.O. Box 1\nLambertville, MI\n48144\n\nMusic:\nHidden Agenda Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/b...\n\nEnd Music by Mark Jay\n\nSound Effects:\nhttp://www.freesfx.co.uk/"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nauZXQoffTcfP0DdnGs1BSR2vhY",
-      "id": "H2fHTJZqaKA",
-      "snippet": {
-        "publishedAt": "2022-09-24T17:00:07Z",
-        "channelId": "UCSUf5_EPEfl4zlBKZHkZdmw",
-        "title": "The Insane Story Of The Most Dangerous Movie Ever Made",
-        "description": "Thanks to ExpressVPN for sponsoring this video! Go to https://expressvpn.com/dannygonzalez and find out how you can get 3 months of ExpressVPN free!\n\nedited by Jake Mayer https://www.instagram.com/jakeshotfriend/\n\nMERCH ► http://dannygonzalez.store\n\nFollow Me\nSECOND CHANNEL ► https://www.youtube.com/c/2Danny2Furious\nGAMING CHANNEL ► https://www.youtube.com/channel/UC2mQG51F8wu7njF84D-49cA\nINSTAGRAM ► https://www.instagram.com/dannygonzalez/\nTWITTER ► https://twitter.com/dannygonzalez\nTWITCH ► https://twitch.tv/dannygoonzalez\nSPOTIFY ► https://open.spotify.com/artist/6pDkmNhHCLh7YEb3sXceOs?si=8ZpMgF41SoufOS1UZ4vbkg\n\nSubmit a video topic https://forms.gle/VNa9Tq6Ncok8RWjN9",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/H2fHTJZqaKA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/H2fHTJZqaKA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/H2fHTJZqaKA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/H2fHTJZqaKA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hlk5OsGwLWU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/H2fHTJZqaKA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hlk5OsGwLWU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Danny Gonzalez",
+        "channelTitle": "TEO",
         "tags": [
-          "danny gonzalez",
-          "funny",
-          "commentary",
-          "comedy",
-          "react",
-          "reaction",
-          "reacting",
-          "awful",
-          "humor"
+          "김태호",
+          "teo",
+          "부루마불",
+          "지구마불",
+          "ena",
+          "곽튜브",
+          "빠니보틀",
+          "원지의하루",
+          "원지",
+          "세계여행",
+          "예능",
+          "웹예능"
         ],
-        "categoryId": "23",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "The Insane Story Of The Most Dangerous Movie Ever Made",
-          "description": "Thanks to ExpressVPN for sponsoring this video! Go to https://expressvpn.com/dannygonzalez and find out how you can get 3 months of ExpressVPN free!\n\nedited by Jake Mayer https://www.instagram.com/jakeshotfriend/\n\nMERCH ► http://dannygonzalez.store\n\nFollow Me\nSECOND CHANNEL ► https://www.youtube.com/c/2Danny2Furious\nGAMING CHANNEL ► https://www.youtube.com/channel/UC2mQG51F8wu7njF84D-49cA\nINSTAGRAM ► https://www.instagram.com/dannygonzalez/\nTWITTER ► https://twitter.com/dannygonzalez\nTWITCH ► https://twitch.tv/dannygoonzalez\nSPOTIFY ► https://open.spotify.com/artist/6pDkmNhHCLh7YEb3sXceOs?si=8ZpMgF41SoufOS1UZ4vbkg\n\nSubmit a video topic https://forms.gle/VNa9Tq6Ncok8RWjN9"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4Y7YhK_DpXQ5Bzl1Bp0L6tLk3ig",
-      "id": "jCNzL74ESkM",
-      "snippet": {
-        "publishedAt": "2022-09-25T03:09:52Z",
-        "channelId": "UCD9nZ3qeRGbPuHJaJduiQxA",
-        "title": "Tropical Storm Ian 11 p.m. update",
-        "description": "Tropical Storm Ian 11 p.m. update\n\nSubscribe to WESH on YouTube now for more: http://bit.ly/1dqr14j\n\nGet more Orlando news: http://www.wesh.com\nLike us: http://facebook.com/wesh2news\nFollow us: http://twitter.com/wesh\nInstagram: https://www.instagram.com/wesh2/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jCNzL74ESkM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jCNzL74ESkM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jCNzL74ESkM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "WESH 2 News",
-        "tags": ["Orlando"],
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Tropical Storm Ian 11 p.m. update",
-          "description": "Tropical Storm Ian 11 p.m. update\n\nSubscribe to WESH on YouTube now for more: http://bit.ly/1dqr14j\n\nGet more Orlando news: http://www.wesh.com\nLike us: http://facebook.com/wesh2news\nFollow us: http://twitter.com/wesh\nInstagram: https://www.instagram.com/wesh2/"
+          "title": "[지구마불 비긴즈] (두근두근) 곽x빠x원의 첫 여행지는 어디?│지구마불 세계여행 | TEO",
+          "description": "네, 놀랍게도 거기 맞아요 ^^\n첫 황금열쇠로 여행 전부터 멘붕은 덤입니다 ^^\n\n아참 그리고, 여행 유튜버들은 여행갈 때, 꼭 XXX을 챙긴다던데..\n\n**영상 10분 44초대 자막 중 ROKA가 ROCA로 오기된 실수가 있었습니다.\n불편을 드려서 죄송합니다. 자막도 꼼꼼히 챙기는 테오 유니버스가 되겠습니다.\n\n주사위 던져서 세계 속으로 🌎지구마불 세계여행🌎\n🏷️ TEO 유튜브 매주 목요일 저녁 \n🏷️ TV판 ENA 3월 4일 토요일 저녁 7시 50분 \n\n#지구마불 #곽빠원어디가 #첫여행지공개 #지구마불세계여행 #곽튜브 #빠니보틀 #원지의하루 #TEO #테오 #김태호PD #세계여행 #ENA @teo.universe"
         }
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "orSTHabSKIljws9_Le6Zbh55uP8",
-      "id": "_snnKw-EywM",
+      "etag": "z1dYGRWgJY1kE4Yg-p2BLeHOU48",
+      "id": "wbb01PgKZvk",
       "snippet": {
-        "publishedAt": "2022-09-24T14:00:51Z",
-        "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
-        "title": "Archery World Records",
-        "description": "Our most INSANE world records yet!! Special thanks to Bass Pro Shops for sponsoring this video! Head to http://basspro.com/ for all your outdoor needs!\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n\n► Watch more Archery Trick Shots from James: https://www.youtube.com/c/JamesJeanoutdoor\n\nClick HERE to get your copy of 2023 Guinness World Record Book: \n► https://www.guinnessworldrecords.com/products/books/guinness-world-records-2023\n\nSail to the Bahamas w/ us on the DUDE PERFECT CRUISE! ► https://www.dudeperfectcruise.com/\n\nMusic by Knives At Sea: \"Come and Get It\"\n► INSTAGRAM: @knivesatsea\n► APPLE MUSIC: https://music.apple.com/gb/artist/knives-at-sea/1495302840\n► SPOTIFY: https://open.spotify.com/artist/2VZYuo718BYqHH2WW9qfNh?si=VK5i_4znQsCBsIfPkuAYSw\n► YOUTUBE: https://www.youtube.com/knivesatsea\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻\u200d💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻\u200d♂️ http://Instagram.com/Cody_Jones_\n🙋🏻\u200d♂️ http://Instagram.com/CobyCotton\n👨\u200d🦰 http://Instagram.com/GarrettHilbert\n⛹🏻\u200d♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\n“Come and Get It”\nPerformed by Knives at Sea\nCourtesy of Ninja Tune Production Music\nWritten by Ozzie Rodgers\n© Ninja Tune Production Music\n-------------------------------------------\nBonus points if you're still reading this! \nComment: What world record we should break next?\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻\u200d♂️ \n- Dude Perfect",
+        "publishedAt": "2023-02-23T09:30:16Z",
+        "channelId": "UC0SoPwEH3idvemSDvKaYgGA",
+        "title": "피자 네고를 위해 둘째까지 약속했습니다 [네고왕] Ep.1",
+        "description": "13:48 다급한 둘째 계획 발표\n\n네고왕이 해온 첫 번째 네고 = 피자🍕\n1. 피자 알볼로 L(라지) 사이즈 전메뉴 주문시 11,000원 할인\n흑미 치즈볼 6개 증정 + 콜라 500ml 11만개 증정\n2. 11만판 수량 한정 + 5일(2/23 ~ 2/27)\n3. 서버 다운시 2일 연장\n4. 치즈 오븐 스파게티 이벤트 첫날(2/23) 무료 제공\n\n※ 구매는 피자 알볼로 자사 사이트 & 앱에서 회원가입 후 주문 (할인쿠폰 자동 적용)\n(주문 건당 할인이 아닌 판당 할인 적용)\n\n네고왕 홍현희\n피자왕 이재욱\n\n네고력 MAX 리얼 협상 예능 [네고왕]\n👑 매주(목) 저녁 6시 30분\n👑 구독+댓글+알림설정ㄱㄱ\n\n\n#네고왕 #홍현희 #피자\n#달라스튜디오 #네고왕5 #NegoKing\n※ 지나친 욕설 및 인신공격성 댓글은 삭제 조치 될 수 있습니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_snnKw-EywM/default.jpg",
+            "url": "https://i.ytimg.com/vi/wbb01PgKZvk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_snnKw-EywM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wbb01PgKZvk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_snnKw-EywM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wbb01PgKZvk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_snnKw-EywM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/wbb01PgKZvk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/_snnKw-EywM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wbb01PgKZvk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Dude Perfect",
+        "channelTitle": "달라스튜디오",
         "tags": [
-          "dude perfect",
-          "dude perfect stereotypes",
-          "dude perfect water bottle flip",
-          "bottle flip",
-          "water bottle flip",
-          "dude perfect bottle flip",
-          "dude perfect basketball",
-          "dp",
-          "dude perfect world record",
-          "edition",
-          "nerf",
-          "trick shots",
-          "trick shot",
-          "family",
-          "ping pong",
-          "bowling",
-          "clean",
-          "family friendly",
-          "bubble wrap",
-          "soccer",
-          "football",
-          "spinner",
-          "spinners",
-          "fidget spinners",
-          "dude",
-          "archery",
-          "world",
-          "records",
-          "bow",
-          "and",
-          "arrow",
-          "james",
-          "jean",
-          "michael",
-          "empric",
-          "guiness",
-          "record",
-          "mirror",
-          "curve",
-          "curving arrow",
-          "viral",
-          "trending",
-          "target",
-          "longest"
+          "네고왕",
+          "내고",
+          "광희",
+          "황광희",
+          "기업리뷰",
+          "제품리뷰",
+          "홍현희",
+          "피자",
+          "알볼로피자",
+          "알볼로",
+          "도미노",
+          "피자먹방",
+          "제이쓴"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "피자 네고를 위해 둘째까지 약속했습니다 [네고왕] Ep.1",
+          "description": "13:48 다급한 둘째 계획 발표\n\n네고왕이 해온 첫 번째 네고 = 피자🍕\n1. 피자 알볼로 L(라지) 사이즈 전메뉴 주문시 11,000원 할인\n흑미 치즈볼 6개 증정 + 콜라 500ml 11만개 증정\n2. 11만판 수량 한정 + 5일(2/23 ~ 2/27)\n3. 서버 다운시 2일 연장\n4. 치즈 오븐 스파게티 이벤트 첫날(2/23) 무료 제공\n\n※ 구매는 피자 알볼로 자사 사이트 & 앱에서 회원가입 후 주문 (할인쿠폰 자동 적용)\n(주문 건당 할인이 아닌 판당 할인 적용)\n\n네고왕 홍현희\n피자왕 이재욱\n\n네고력 MAX 리얼 협상 예능 [네고왕]\n👑 매주(목) 저녁 6시 30분\n👑 구독+댓글+알림설정ㄱㄱ\n\n\n#네고왕 #홍현희 #피자\n#달라스튜디오 #네고왕5 #NegoKing\n※ 지나친 욕설 및 인신공격성 댓글은 삭제 조치 될 수 있습니다."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4HunA8knoCcp4_VKYZ5IEOWwQr8",
+      "id": "ftAqST8f6kw",
+      "snippet": {
+        "publishedAt": "2023-02-23T00:05:02Z",
+        "channelId": "UCCCjbf-1ESumTxBlflQSQIQ",
+        "title": "한국인들은 잘 인식 못하는,한국에서는 되는데 미국에선 안되는 일",
+        "description": "🖤썸머 채널 VIP가입으로 라이브 풀영상 전체 다시보기:  https://www.youtube.com/channel/UCCCjbf-1ESumTxBlflQSQIQ/join\n🖤INSTAGRAM @summerinbk\n🖤Business Inquiries only (비즈니스 관련 메일): summerinbk@gmail.com\n\n\n해당 채널의 모든 저작권은 썸머썸머 Summer in New York 에 있으며 \n단순 링크 공유 외 영상 일부 혹은 전체의 무단게시를 금지합니다. \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form.\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\n\nSome of the links are affiliate links, which means I may earn a small commission if anyone purchases through it and it does help me to keep on making videos for you guys, thank you!\n위 링크 중에는 상품 구매시 제게 소액의 커미션이 생기는\n추천인 링크가 포함되어 있을 수 있습니다.\n영상 제작에 도움 주셔서 감사합니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftAqST8f6kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftAqST8f6kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftAqST8f6kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ftAqST8f6kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ftAqST8f6kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "썸머썸머Summer in New York",
+        "tags": ["미국일상", "썸머", "썸머썸머"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "한국인들은 잘 인식 못하는,한국에서는 되는데 미국에선 안되는 일",
+          "description": "🖤썸머 채널 VIP가입으로 라이브 풀영상 전체 다시보기:  https://www.youtube.com/channel/UCCCjbf-1ESumTxBlflQSQIQ/join\n🖤INSTAGRAM @summerinbk\n🖤Business Inquiries only (비즈니스 관련 메일): summerinbk@gmail.com\n\n\n해당 채널의 모든 저작권은 썸머썸머 Summer in New York 에 있으며 \n단순 링크 공유 외 영상 일부 혹은 전체의 무단게시를 금지합니다. \nAll rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form.\n\n••••••••••••••••••••••••••••••••••••••••­­­•••••••••••\n\n\nSome of the links are affiliate links, which means I may earn a small commission if anyone purchases through it and it does help me to keep on making videos for you guys, thank you!\n위 링크 중에는 상품 구매시 제게 소액의 커미션이 생기는\n추천인 링크가 포함되어 있을 수 있습니다.\n영상 제작에 도움 주셔서 감사합니다!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y-mDLV2tzA40OnT_304fUezft1Q",
+      "id": "iq-ivLY_9A8",
+      "snippet": {
+        "publishedAt": "2023-02-23T09:00:24Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa 에스파 'ep.3 Girls (Don’t you know I’m a Savage?)' - SM Culture Universe",
+        "description": "#aespa #SMCU\n\n'ep.1 Black Mamba'\n➫ https://youtu.be/vbH4Lk5wYWg\n\n'ep.2 Next Level'\n➫ https://youtu.be/i8fRCkq5tbw\n\nThe beginning of a new world Connecting aespa, ae-aespa and MY \n2023 aespa 1st Concert ‘SYNK : HYPER LINE’\n\n〖 잠실실내체육관 〗\n ➫2023.02.25(SAT) - 6PM(KST)\n ➫2023.02.26(SUN) - 5PM(KST) + ONLINE\n\naespa Official \nhttps://www.youtube.com/c/aespa \nhttps://www.instagram.com/aespa_official \nhttps://www.tiktok.com/@aespa_official \nhttps://twitter.com/aespa_Official \nhttps://www.facebook.com/aespa.official \nhttps://weibo.com/aespa \n\n#Girls #aespa_Girls #에스파 #æspa\n#SM_Culture_Universe #Season1\n#SYNK_HYPERLINE\n#aespa1stConcertSYNK_HYPERLINE\n#비욘드라이브 #BeyoundLIVE\n#BeyoundLIVE_SYNK_HYPERLINE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iq-ivLY_9A8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iq-ivLY_9A8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iq-ivLY_9A8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iq-ivLY_9A8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iq-ivLY_9A8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "aespa",
+        "tags": [
+          "aespa",
+          "에스파",
+          "카리나",
+          "윈터",
+          "지젤",
+          "닝닝",
+          "KARINA",
+          "WINTER",
+          "GISELLE",
+          "NINGNING",
+          "SMCU",
+          "SM Culture Universe",
+          "세계관",
+          "naevis",
+          "black mamba",
+          "ae",
+          "나이비스",
+          "블랙맘바",
+          "Girls",
+          "걸스",
+          "savage",
+          "next level"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "aespa 에스파 'ep.3 Girls (Don’t you know I’m a Savage?)' - SM Culture Universe",
+          "description": "#aespa #SMCU\n\n'ep.1 Black Mamba'\n➫ https://youtu.be/vbH4Lk5wYWg\n\n'ep.2 Next Level'\n➫ https://youtu.be/i8fRCkq5tbw\n\nThe beginning of a new world Connecting aespa, ae-aespa and MY \n2023 aespa 1st Concert ‘SYNK : HYPER LINE’\n\n〖 잠실실내체육관 〗\n ➫2023.02.25(SAT) - 6PM(KST)\n ➫2023.02.26(SUN) - 5PM(KST) + ONLINE\n\naespa Official \nhttps://www.youtube.com/c/aespa \nhttps://www.instagram.com/aespa_official \nhttps://www.tiktok.com/@aespa_official \nhttps://twitter.com/aespa_Official \nhttps://www.facebook.com/aespa.official \nhttps://weibo.com/aespa \n\n#Girls #aespa_Girls #에스파 #æspa\n#SM_Culture_Universe #Season1\n#SYNK_HYPERLINE\n#aespa1stConcertSYNK_HYPERLINE\n#비욘드라이브 #BeyoundLIVE\n#BeyoundLIVE_SYNK_HYPERLINE"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yLlmGedZRO1zZgo5gWyFsANlmSY",
+      "id": "CjId-vY73z0",
+      "snippet": {
+        "publishedAt": "2023-02-23T09:18:45Z",
+        "channelId": "UCtSrD8bpasASomAICsRu_gQ",
+        "title": "일요일에 윤성빈은 뭐할까?",
+        "description": "평창 올림픽 금메달 리스트 윤성빈 유튜브 채널 입니다.\n많은 관심 부탁드립니다!\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n\n비지니스 문의:  jgenter91@gmail.com\n\n인스타그램: https://instagram.com/top.physical?igshid=YmMyMTA2M2Y=\n\n#윤성빈 #브이로그",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CjId-vY73z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CjId-vY73z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CjId-vY73z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CjId-vY73z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CjId-vY73z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이언빈 윤성빈",
+        "tags": [
+          "아이언빈",
+          "스켈레톤윤성빈",
+          "피지컬",
+          "피지컬끝판왕",
+          "올림픽",
+          "금메달리스트",
+          "nfl",
+          "신체능력",
+          "근육",
+          "몸짱",
+          "달리기",
+          "육상",
+          "피지컬갤러리",
+          "김강민",
+          "말왕",
+          "김계란",
+          "지기",
+          "운지기",
+          "윤성빈피지컬",
+          "까로",
+          "아모띠",
+          "크로스핏",
+          "헬스",
+          "웨이트",
+          "스켈레톤",
+          "서전트",
+          "윤성빈제멀",
+          "등운동",
+          "김종국등운동",
+          "윤성빈등",
+          "넓은등만들기",
+          "넓은프레임만들기",
+          "가오리등",
+          "하체운동",
+          "데드리프트",
+          "스쿼트",
+          "3대측정",
+          "삼대오백",
+          "피지컬100",
+          "physical 100"
         ],
         "categoryId": "17",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Archery World Records",
-          "description": "Our most INSANE world records yet!! Special thanks to Bass Pro Shops for sponsoring this video! Head to http://basspro.com/ for all your outdoor needs!\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n\n► Watch more Archery Trick Shots from James: https://www.youtube.com/c/JamesJeanoutdoor\n\nClick HERE to get your copy of 2023 Guinness World Record Book: \n► https://www.guinnessworldrecords.com/products/books/guinness-world-records-2023\n\nSail to the Bahamas w/ us on the DUDE PERFECT CRUISE! ► https://www.dudeperfectcruise.com/\n\nMusic by Knives At Sea: \"Come and Get It\"\n► INSTAGRAM: @knivesatsea\n► APPLE MUSIC: https://music.apple.com/gb/artist/knives-at-sea/1495302840\n► SPOTIFY: https://open.spotify.com/artist/2VZYuo718BYqHH2WW9qfNh?si=VK5i_4znQsCBsIfPkuAYSw\n► YOUTUBE: https://www.youtube.com/knivesatsea\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻\u200d💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻\u200d♂️ http://Instagram.com/Cody_Jones_\n🙋🏻\u200d♂️ http://Instagram.com/CobyCotton\n👨\u200d🦰 http://Instagram.com/GarrettHilbert\n⛹🏻\u200d♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\n“Come and Get It”\nPerformed by Knives at Sea\nCourtesy of Ninja Tune Production Music\nWritten by Ozzie Rodgers\n© Ninja Tune Production Music\n-------------------------------------------\nBonus points if you're still reading this! \nComment: What world record we should break next?\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻\u200d♂️ \n- Dude Perfect"
+          "title": "일요일에 윤성빈은 뭐할까?",
+          "description": "평창 올림픽 금메달 리스트 윤성빈 유튜브 채널 입니다.\n많은 관심 부탁드립니다!\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n\n비지니스 문의:  jgenter91@gmail.com\n\n인스타그램: https://instagram.com/top.physical?igshid=YmMyMTA2M2Y=\n\n#윤성빈 #브이로그"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ux6bn0rJSN3VRDV5XrPknd7Zt-A",
+      "id": "O-mqRaOulGE",
+      "snippet": {
+        "publishedAt": "2023-02-20T13:58:15Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "[sub]🧳 EP.1-2ㅣ막내에겐 인간미, 사장에겐 빙구미를 선사한 악랄한(?) 인물퀴즈ㅣ🧳출장십오야2 X 서진이네",
+        "description": "#이서진 #정유미 #박서준 #최우식 #김태형  #서진이네 #출장십오야2\n\n[Jinny's Kitchen] is available on Prime Video outside of Korea \n\n이젠 내가 사장 [서진이네] \n2/24 (금) 저녁 8:50 tvN 첫 방송!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-mqRaOulGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-mqRaOulGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-mqRaOulGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-mqRaOulGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-mqRaOulGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채널 십오야",
+        "tags": [
+          "나영석",
+          "나PD",
+          "아간세",
+          "아이슬란드간세끼",
+          "이수근",
+          "수근세끼",
+          "은지원",
+          "지원세끼",
+          "삼시세끼",
+          "세끼",
+          "신효정",
+          "나피디",
+          "묘한이",
+          "tvN",
+          "라끼남",
+          "라면",
+          "라면끼리는남자",
+          "강호동",
+          "양정우",
+          "육봉선생",
+          "6봉선생",
+          "라면먹방",
+          "마포멋쟁이",
+          "마포",
+          "멋쟁이",
+          "송민호",
+          "표지훈",
+          "민호",
+          "지훈",
+          "피오",
+          "MINO",
+          "PO",
+          "P.O",
+          "위너",
+          "WINNER",
+          "송표",
+          "표송",
+          "패션",
+          "패션유튜버",
+          "패션유튜브",
+          "삼시네세끼",
+          "달나라공약이행프로젝트",
+          "달나라프로젝트",
+          "달나라",
+          "젝스키스",
+          "젝키",
+          "Sechs Kies",
+          "슬의",
+          "슬기로운하드털이",
+          "슬의생",
+          "신원호",
+          "조정석",
+          "유연석",
+          "장겨울",
+          "hospitalplaylist",
+          "이식당",
+          "나홀로이식당",
+          "나노",
+          "우주",
+          "김준",
+          "어깨춤",
+          "언제까지어깨춤을추게할거야",
+          "규현",
+          "조규현",
+          "조정뱅이",
+          "슈퍼주니어",
+          "superjunior",
+          "슈주",
+          "악마는정남이를입는다",
+          "악마정남",
+          "배정남",
+          "출장십오야",
+          "출장",
+          "슬기로운캠핑생활",
+          "캠핑생활",
+          "슬캠",
+          "내과박원장",
+          "이서진",
+          "BH",
+          "BTS",
+          "하이브",
+          "hybe",
+          "스타쉽",
+          "starship",
+          "txt",
+          "르세라핌",
+          "lesserafim",
+          "세븐틴",
+          "seventeen",
+          "지구오락실",
+          "지락실",
+          "토롱이"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[sub]🧳 EP.1-2ㅣ막내에겐 인간미, 사장에겐 빙구미를 선사한 악랄한(?) 인물퀴즈ㅣ🧳출장십오야2 X 서진이네",
+          "description": "#이서진 #정유미 #박서준 #최우식 #김태형  #서진이네 #출장십오야2\n\n[Jinny's Kitchen] is available on Prime Video outside of Korea \n\n이젠 내가 사장 [서진이네] \n2/24 (금) 저녁 8:50 tvN 첫 방송!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7oS9_vA3Wq1Cje1Br6slt58zVn4",
+      "id": "yaeG5iPP414",
+      "snippet": {
+        "publishedAt": "2023-02-20T09:00:38Z",
+        "channelId": "UC4UnP3v-iaFaLdtKwp84Pmw",
+        "title": "이찬원(Lee Chan Won) '풍등' official MV",
+        "description": "이찬원 첫 정규앨범 [ONE] '풍등' MV\n\n🎧LeeChanWon 1st Album [ONE] Release\n\n#이찬원 #LeeChanWon #풍등 #MV\n#ONE #WishLanterns",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yaeG5iPP414/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yaeG5iPP414/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaeG5iPP414/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yaeG5iPP414/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yaeG5iPP414/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이찬원",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이찬원(Lee Chan Won) '풍등' official MV",
+          "description": "이찬원 첫 정규앨범 [ONE] '풍등' MV\n\n🎧LeeChanWon 1st Album [ONE] Release\n\n#이찬원 #LeeChanWon #풍등 #MV\n#ONE #WishLanterns"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JgBmvTJ8yYIg-7RTVD_v2Kk1SpU",
+      "id": "V4u2fSTdU8w",
+      "snippet": {
+        "publishedAt": "2023-02-22T22:00:14Z",
+        "channelId": "UCI5WgFSOVO9UJFcqQTiClHQ",
+        "title": "신기루&풍자 캠핑여행기 2부",
+        "description": "★스폰/광고/협찬/비지니스 apple621122@naver.com\n\n#풍자 #신기루 #캠핑 #먹방\n\n\n\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n🎵Music provided by 브금대통령\n🎵Track : Chicken Run - https://youtu.be/Jxn_5jtrulA\n🎵Track : Ready To Nap - https://youtu.be/UZE2a9gTsDk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V4u2fSTdU8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V4u2fSTdU8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V4u2fSTdU8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V4u2fSTdU8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V4u2fSTdU8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "풍자테레비",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "신기루&풍자 캠핑여행기 2부",
+          "description": "★스폰/광고/협찬/비지니스 apple621122@naver.com\n\n#풍자 #신기루 #캠핑 #먹방\n\n\n\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n🎵Music provided by 브금대통령\n🎵Track : Chicken Run - https://youtu.be/Jxn_5jtrulA\n🎵Track : Ready To Nap - https://youtu.be/UZE2a9gTsDk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "45ucJmSbvNzNQuIDLEMTqL2dV3A",
+      "id": "zwgudqf_um4",
+      "snippet": {
+        "publishedAt": "2023-02-22T10:00:42Z",
+        "channelId": "UC6KwCU8Y8Uw4h_Q0ptLZkqw",
+        "title": "[🇦🇺vlog] 일상속 알짜배기만 모았다! 깨알 일상 조각 모음 브이로그.zip",
+        "description": "골드코스트 쇼데이도 가고~ \n조카랑 심부름도하고\n오빠 생일도 대-충 보내고\n민준이 모노폴리로 이겨서 울려도 보고~\n바쁘다 바빠~~\n-\n\n비지니스 문의는 이쪽으로 👉🏽 haejoo@sandboxnetwork.net\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zwgudqf_um4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zwgudqf_um4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwgudqf_um4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zwgudqf_um4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zwgudqf_um4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "해쭈 [HAEJOO]",
+        "tags": [
+          "해쭈",
+          "가좍",
+          "쁘큐보이",
+          "카야",
+          "새삼이",
+          "브이로그",
+          "호주"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[🇦🇺vlog] 일상속 알짜배기만 모았다! 깨알 일상 조각 모음 브이로그.zip",
+          "description": "골드코스트 쇼데이도 가고~ \n조카랑 심부름도하고\n오빠 생일도 대-충 보내고\n민준이 모노폴리로 이겨서 울려도 보고~\n바쁘다 바빠~~\n-\n\n비지니스 문의는 이쪽으로 👉🏽 haejoo@sandboxnetwork.net\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju"
         },
         "defaultAudioLanguage": "en"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ySyzMyfQu_Ni67yoOYwEfVtduIs",
-      "id": "oDjbH-b4WHw",
+      "etag": "0Y11aX1IMLDCmd2zLIM_kJ8edsY",
+      "id": "5qdyD5diGf8",
       "snippet": {
-        "publishedAt": "2022-09-25T14:00:32Z",
-        "channelId": "UCGnSHwhOAczNqhGDiYt0Q8g",
-        "title": "i became a cowboy for 24 hours",
-        "description": "howdy merch pre-order - https://howdyhowdy.com",
+        "publishedAt": "2023-02-22T09:00:03Z",
+        "channelId": "UC2m-GyKO2n3LrkYr9YEIBcA",
+        "title": "[SUB] 박소현, 산다라박의 소식세끼(※욕 아님※) | #밥맛없는언니들 EP.24",
+        "description": "#박소현 #산다라박 #소식좌 #강화도\n\n소식좌끼리 떠나는 첫 여행 in 강화도 🌊\n여행가면 꽤 잘 먹…겠죠?\n \n📌 하이라이트 바로 확인!\n00:00 소식으로 하루 3끼 도전?!\n02:06 ~ 03:48 첫 끼부터 이러시면 안됩니다.\n🍚 강화도 한끼 메뉴 🍚\n04:46 휴게소 필수 메뉴\n09:05 최애 메뉴 뽑기\n10:33 소식좌 정량 체크\n10:48 다라와 소현이 친해진 계기\n🍚 강화도 두끼 메뉴 🍚\n19:21 메뉴1 : 나물 비빕밥\n20:25 메뉴2 : 감자전, 나물전\n22:02 먹조합 뽑기 TIME\n23:21 소식좌 정량 체크\n23:33 식사량 체크 #오완밥 성공?\n23:52 강화도 세끼 메뉴 \n24:16 쿠키영상\n\n📢 매주 (수) 오후 6시 #흥마늘스튜디오\nhttps://www.youtube.com/@HappyGarlic\n\n🔔 구독/좋아요/알림 설정은 필수!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oDjbH-b4WHw/default.jpg",
+            "url": "https://i.ytimg.com/vi/5qdyD5diGf8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oDjbH-b4WHw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5qdyD5diGf8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oDjbH-b4WHw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5qdyD5diGf8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oDjbH-b4WHw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/5qdyD5diGf8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/oDjbH-b4WHw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5qdyD5diGf8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ryan trahan",
-        "tags": ["ryan trahan", "gamerboy ryan"],
+        "channelTitle": "흥마늘 스튜디오",
+        "tags": [
+          "#흥마늘스튜디오",
+          "#흙마늘스튜디오",
+          "#흑마늘스튜디오",
+          "#홍마늘스튜디오",
+          "키",
+          "킬러",
+          "뮤직비디오",
+          "샤이니",
+          "SMP",
+          "SMP FLOOR",
+          "SM Performance",
+          "choreography",
+          "performance",
+          "dance",
+          "#출장십오야 #하이브",
+          "#BTS",
+          "#예능",
+          "#먹방",
+          "#오분순삭",
+          "#muckbang",
+          "#소식좌",
+          "#소식좌먹방",
+          "#소식",
+          "#다이어트",
+          "박소현",
+          "#산다라박",
+          "#샤이니",
+          "#키",
+          "#KEY",
+          "#놀토",
+          "#태연",
+          "#SM",
+          "#술",
+          "#리뷰",
+          "#또간집",
+          "#입짧은햇님",
+          "먹방 asmr",
+          "#민호",
+          "#놀토 키",
+          "#맛녀석",
+          "#먹방브이로그",
+          "#밥맛없는그녀들",
+          "#라디오스타",
+          "#소식좌모음",
+          "#브이로그",
+          "#korean",
+          "#맛집",
+          "#서울 맛집",
+          "#관종언니",
+          "#나혼자",
+          "#요리",
+          "#나혼자산다",
+          "#김기범",
+          "#키범",
+          "#민희진",
+          "#뉴진스",
+          "#광야",
+          "#에스파",
+          "#NCT",
+          "#블랙핑크",
+          "#주간아이돌",
+          "#예능 레전드",
+          "#쿡방",
+          "#차쥐뿔",
+          "#햇님",
+          "#1인가구",
+          "cj",
+          "디글",
+          "#스테이씨",
+          "강화도",
+          "여행",
+          "여행 브이로그",
+          "빠니보틀",
+          "오킹",
+          "추천",
+          "#굿즈",
+          "#뷔"
+        ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "i became a cowboy for 24 hours",
-          "description": "howdy merch pre-order - https://howdyhowdy.com"
-        }
+          "title": "[SUB] 박소현, 산다라박의 소식세끼(※욕 아님※) | #밥맛없는언니들 EP.24",
+          "description": "#박소현 #산다라박 #소식좌 #강화도\n\n소식좌끼리 떠나는 첫 여행 in 강화도 🌊\n여행가면 꽤 잘 먹…겠죠?\n \n📌 하이라이트 바로 확인!\n00:00 소식으로 하루 3끼 도전?!\n02:06 ~ 03:48 첫 끼부터 이러시면 안됩니다.\n🍚 강화도 한끼 메뉴 🍚\n04:46 휴게소 필수 메뉴\n09:05 최애 메뉴 뽑기\n10:33 소식좌 정량 체크\n10:48 다라와 소현이 친해진 계기\n🍚 강화도 두끼 메뉴 🍚\n19:21 메뉴1 : 나물 비빕밥\n20:25 메뉴2 : 감자전, 나물전\n22:02 먹조합 뽑기 TIME\n23:21 소식좌 정량 체크\n23:33 식사량 체크 #오완밥 성공?\n23:52 강화도 세끼 메뉴 \n24:16 쿠키영상\n\n📢 매주 (수) 오후 6시 #흥마늘스튜디오\nhttps://www.youtube.com/@HappyGarlic\n\n🔔 구독/좋아요/알림 설정은 필수!"
+        },
+        "defaultAudioLanguage": "ko"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NirlHZgQzRQmaQvgX274Alv1dus",
-      "id": "yTL_-OR-etM",
+      "etag": "vtKqP2DjQFj-AxJGbK6ClRZ0yxU",
+      "id": "M_OKDr0H4_c",
       "snippet": {
-        "publishedAt": "2022-09-25T15:00:01Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "Me, Myself, and Jimin ‘ID : Chaos’ Mood Sampler",
-        "description": "Me, Myself, and Jimin ‘ID : Chaos’ Mood Sampler\n#Photo_Folio #Jimin #BTS #방탄소년단\n\nArtist & Creator : Jimin\n\nProduction : Artist Contents Studio (HYBE 360)\nContents Creative : Bang Woo Jung\nPhoto-Folio Creative : \u200bKim Su Rin\nContents Director : \u200bJang Jeong In\nContents Coordinator: Sung Jang Soon\nContents Editor : Kim Su Rin, Kim Bom Saem\n\nCONTENTS PRODUCTION : PLAY COMPANY corp.\nCamera : Lee Jae Woong, Kim Dae Yong (PLAY COMPANY), Jang Hey Min, Jeong Ji Won (HYBE 360)\nPD : Lee So Jin, Kim Yun Su, Sunu Yun Jun\nAD : Lee Eun Jin\nVideo Edit : Sunu Yun Jun\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com",
+        "publishedAt": "2023-02-21T08:00:08Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[백종원 시장이 되다] 긴급! 예산 시장 중단 합니다❌",
+        "description": "#백종원 #백종원시장이되다 #예산\n\n\n예산 시장이 잠시 휴무에 들어갑니다!\n2월 27일(월)부터 3월 31일(금)까지\n재정비에 들어갑니다. \n\n좀 더 다양한 맛을 즐길 수 있게~\n좀 더 편안하게 즐길 수 있게~\n\n새로운 가게들부터 장옥 바닥 평탄화 작업까지!\n여러분들이 남겨주신 내용들을 바탕으로\n새 단장에 들어갑니다. \n\n더 특별하고 더 새로운 모습으로 4월 1일 다시 만나요~\n그때까지 우리 팀원들도 많이 응원해주세요!!\n\n\n00:00 긴급공지\n00:47 희망을 본 예산 시장 프로젝트\n01:40 팀원분들 반응\n02:01 재정비 방향\n04:09 재개장 공지\n04:26 함께합시다\n05:03 스포",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yTL_-OR-etM/default.jpg",
+            "url": "https://i.ytimg.com/vi/M_OKDr0H4_c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yTL_-OR-etM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M_OKDr0H4_c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yTL_-OR-etM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M_OKDr0H4_c/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M_OKDr0H4_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M_OKDr0H4_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "tags": [
+          "백종원",
+          "시장",
+          "백종원예산",
+          "예산상설시장",
+          "휴장",
+          "공지",
+          "영업중단",
+          "지역",
+          "후원",
+          "전통시장",
+          "지역사업",
+          "관광",
+          "여행",
+          "맛집",
+          "더본코리아",
+          "theborn",
+          "paik jong won",
+          "얘산",
+          "지방",
+          "예산시장",
+          "정보",
+          "꿀팁",
+          "소개",
+          "충남 예산",
+          "백종원 예산"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[백종원 시장이 되다] 긴급! 예산 시장 중단 합니다❌",
+          "description": "#백종원 #백종원시장이되다 #예산\n\n\n예산 시장이 잠시 휴무에 들어갑니다!\n2월 27일(월)부터 3월 31일(금)까지\n재정비에 들어갑니다. \n\n좀 더 다양한 맛을 즐길 수 있게~\n좀 더 편안하게 즐길 수 있게~\n\n새로운 가게들부터 장옥 바닥 평탄화 작업까지!\n여러분들이 남겨주신 내용들을 바탕으로\n새 단장에 들어갑니다. \n\n더 특별하고 더 새로운 모습으로 4월 1일 다시 만나요~\n그때까지 우리 팀원들도 많이 응원해주세요!!\n\n\n00:00 긴급공지\n00:47 희망을 본 예산 시장 프로젝트\n01:40 팀원분들 반응\n02:01 재정비 방향\n04:09 재개장 공지\n04:26 함께합시다\n05:03 스포"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ChtnpLw2jPbbgA0R8C2jT7nslsY",
+      "id": "w0fPGbo4bcA",
+      "snippet": {
+        "publishedAt": "2023-02-22T07:59:45Z",
+        "channelId": "UCeS6R89S32mSOxTNoEqrN7g",
+        "title": "[다큐 황은정] 인터넷 소설에 푹 빠진 은정이ㅣ은정이는 열다섯 (4/4) [100222 방송]",
+        "description": "2010년 2월 22일 방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0fPGbo4bcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0fPGbo4bcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0fPGbo4bcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w0fPGbo4bcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w0fPGbo4bcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "사내뷰공업 beautyfool",
+        "tags": [
+          "틱톡",
+          "릴스",
+          "쇼츠",
+          "상황극",
+          "공감",
+          "일상",
+          "콩트",
+          "유머",
+          "사내뷰공업",
+          "아리",
+          "ari",
+          "beautyfool",
+          "tiktok",
+          "reels",
+          "shorts",
+          "sitcom",
+          "korean"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[다큐 황은정] 인터넷 소설에 푹 빠진 은정이ㅣ은정이는 열다섯 (4/4) [100222 방송]",
+          "description": "2010년 2월 22일 방송"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IXQ-WjtxCsDXcISfR_5xb_zTh5I",
+      "id": "akoflTKqhEY",
+      "snippet": {
+        "publishedAt": "2023-02-22T14:00:01Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] THE BOYZ(더보이즈) 'ROAR' (4K)",
+        "description": "[BE ORIGINAL] THE BOYZ 'ROAR'\n[비 오리지널] 더보이즈 '로어'\n\n모두가 원한 더보이즈 스춤이 오리라❤️‍🔥\n(2:55) 앟 스춤주연 또 쭈전드 찍었닿\n\n#THEBOYZ #더보이즈 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/akoflTKqhEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/akoflTKqhEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/akoflTKqhEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/akoflTKqhEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/akoflTKqhEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "tags": [
+          "M2",
+          "엠투",
+          "스튜디오 춤",
+          "스춤",
+          "Studio choom",
+          "COVERS",
+          "커버스",
+          "DANCE THE X",
+          "댄스 더 엑스",
+          "댄스",
+          "DANCE",
+          "비 오리지널",
+          "BE ORIGINAL",
+          "커버",
+          "COVER",
+          "Artist Of The Month",
+          "AOTM",
+          "Drop the dance",
+          "드롭더댄스",
+          "Mix & Max",
+          "믹스앤맥스",
+          "믹앤맥",
+          "더보이즈",
+          "더보이즈 로어",
+          "THE BOYZ",
+          "the boyz",
+          "theboyz",
+          "the boyz roar",
+          "roar",
+          "로어",
+          "주학년",
+          "영훈",
+          "현재",
+          "주연",
+          "큐",
+          "뉴",
+          "제이콥",
+          "에릭",
+          "상연",
+          "케빈",
+          "선우",
+          "haknyeon",
+          "younghoon",
+          "hyunjae",
+          "juyeon",
+          "new",
+          "the boyz q",
+          "jacob",
+          "eric",
+          "sangyeon",
+          "kevin",
+          "sunwoo",
+          "더보이즈 컴백",
+          "the boyz comebakc",
+          "roar the boyz"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[BE ORIGINAL] THE BOYZ(더보이즈) 'ROAR' (4K)",
+          "description": "[BE ORIGINAL] THE BOYZ 'ROAR'\n[비 오리지널] 더보이즈 '로어'\n\n모두가 원한 더보이즈 스춤이 오리라❤️‍🔥\n(2:55) 앟 스춤주연 또 쭈전드 찍었닿\n\n#THEBOYZ #더보이즈 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IayKWZcvi4zqkm4M9Wflwkx9ABI",
+      "id": "ID-1WnYB3VY",
+      "snippet": {
+        "publishedAt": "2023-02-20T09:30:08Z",
+        "channelId": "UCHlSeJxRIXZWMARC2oMwmcQ",
+        "title": "[의뢰인 K] 35억 금괴를 찾아 탈북한 남자! 동화사에 묻혀있는 금괴의 진실은? KBS 120129 방송",
+        "description": "동화사 대웅전 뒤뜰에 묻혀 있다는 금괴 40kg\n한국 전쟁 당시 피난 길에 오르기 전 묻어 놓고 월북 했다는 아버지\n\n그리고 금괴를 찾기 위해 탈북한 아들...\n\n과연 동화사에 묻혀있는 금괴의 진실은?\n\n#의뢰인K #금괴 #탈북 #재연",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ID-1WnYB3VY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ID-1WnYB3VY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ID-1WnYB3VY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ID-1WnYB3VY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ID-1WnYB3VY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS 교양",
+        "tags": [
+          "KBS",
+          "KBS1",
+          "KBS2",
+          "KBS교양",
+          "KBS다큐",
+          "한국방송",
+          "korea",
+          "south",
+          "life",
+          "documentary",
+          "의뢰인 K",
+          "동화사",
+          "금",
+          "금괴",
+          "탈북"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[의뢰인 K] 35억 금괴를 찾아 탈북한 남자! 동화사에 묻혀있는 금괴의 진실은? KBS 120129 방송",
+          "description": "동화사 대웅전 뒤뜰에 묻혀 있다는 금괴 40kg\n한국 전쟁 당시 피난 길에 오르기 전 묻어 놓고 월북 했다는 아버지\n\n그리고 금괴를 찾기 위해 탈북한 아들...\n\n과연 동화사에 묻혀있는 금괴의 진실은?\n\n#의뢰인K #금괴 #탈북 #재연"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XFmY8OAIky19I7By7EXRZAlYR7s",
+      "id": "Jq3TftEBl_o",
+      "snippet": {
+        "publishedAt": "2023-02-23T11:00:18Z",
+        "channelId": "UCZf4ZESHAIuRtZ-eoMSL97A",
+        "title": "자기관리 끝판왕 비의 칼로리 폭파 루틴에 척살 당한 덱스😵‍💫 | 시즌비시즌3 EP.26",
+        "description": "#덱스 #다이어트 #운동루틴 \n\nUDT 덱스와 UBD 비가 운동으로 붙었습니다💪\n\n\n #시즌비시즌 #비 #정지훈  #rain #seasonbseason #시비시",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jq3TftEBl_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jq3TftEBl_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jq3TftEBl_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jq3TftEBl_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jq3TftEBl_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시즌비시즌 Season B Season",
+        "tags": [
+          "시즌비시즌",
+          "덱스",
+          "비",
+          "비운동",
+          "덱스운동",
+          "RAIN",
+          "솔로지옥",
+          "우마게임",
+          "솔로지옥덱스",
+          "우마게임덱스",
+          "덱스모음",
+          "칼로리폭팔운동",
+          "칼로리제거운동",
+          "칼로리운동",
+          "운동영상",
+          "운동",
+          "젝스",
+          "UDT",
+          "UDT운동",
+          "UDT덱스",
+          "덱스사격",
+          "덱스총",
+          "UDT사격",
+          "비사격",
+          "seasonbseason",
+          "season",
+          "시즌",
+          "비시즌",
+          "다이어트",
+          "다이어트비법",
+          "비다이어트",
+          "다이어트운동",
+          "운동루틴",
+          "비운동루틴",
+          "자기관리",
+          "자기관리끝판왕",
+          "자기관리비",
+          "비자기관리",
+          "비 자기관리",
+          "덱스자기관리",
+          "덱스피지컬",
+          "비피지컬",
+          "맨몸운동",
+          "비맨몸운동",
+          "크로스핏",
+          "크로스핏 비",
+          "비 크로스핏",
+          "덱스 크로스핏",
+          "덱스 맨몸운동",
+          "넷플릭스"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "자기관리 끝판왕 비의 칼로리 폭파 루틴에 척살 당한 덱스😵‍💫 | 시즌비시즌3 EP.26",
+          "description": "#덱스 #다이어트 #운동루틴 \n\nUDT 덱스와 UBD 비가 운동으로 붙었습니다💪\n\n\n #시즌비시즌 #비 #정지훈  #rain #seasonbseason #시비시"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "20InZn5o-qutDryW38PDkMtiGCk",
+      "id": "2-hnCCCFEM8",
+      "snippet": {
+        "publishedAt": "2023-02-22T09:00:02Z",
+        "channelId": "UCBZNwAt2n1QPQHAvPTvD6tw",
+        "title": "[OFFICIAL AUDIO] 투모로우바이투게더 - 이젠 안녕 :: 연애혁명 X 투모로우바이투게더",
+        "description": "[OFFICIAL AUDIO] 투모로우바이투게더 - 이젠 안녕 :: 연애혁명 X 투모로우바이투게더\nTOMORROW X TOGETHER - Goodbye Now :: Love Revolution OST\n\n[Lyrics]\n우리 처음 만났던\n어색했던 그 표정 속에\n서로 말 놓기가 어려워 망설였지만\n\n음악 속에 묻혀 지내 온\n수많은 나날들이\n이젠 돌아갈 수 없는 아쉬움 됐네\n\n이제는 우리가 서로\n떠나가야 할 시간\n아쉬움을 남긴 채 돌아서지만\n\n시간은 우리를\n다시 만나게 해 주겠지\n우리 그때까지 아쉽지만 기다려봐요\n\n어느 차가웁던 겨울날\n작은 방에 모여\n부르던 그 노랜 이젠\n\n기억 속에 묻혀진\n작은 노래 됐지만\n우리들 맘엔 영원히\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n이제는 우리가 서로\n떠나가야 할 시간\n아쉬움을 남긴 채 돌아서지만\n\n시간은 우리를\n다시 만나게 해 주겠지\n우리 그때까지 아쉽지만 기다려봐요\n\n어느 차가웁던 겨울날\n작은 방에 모여\n부르던 그 노랜 이젠\n\n기억 속에 묻혀진\n작은 노래 됐지만\n우리들 맘엔 영원히\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n\n#연애혁명 #투모로우바이투게더 #이젠안녕",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-hnCCCFEM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-hnCCCFEM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-hnCCCFEM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2-hnCCCFEM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2-hnCCCFEM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "모스트콘텐츠 MOSTCONTENTS",
+        "tags": [
+          "드라마 OST",
+          "KDRAMA OST",
+          "DRAMA OST",
+          "KPOP",
+          "모스트콘텐츠",
+          "MOSTCONTENTS",
+          "OST",
+          "연애혁명",
+          "Love Revolution",
+          "웹툰",
+          "네이버웹툰",
+          "Webtoon",
+          "투모로우바이투게더",
+          "투바투",
+          "#TOMORROW_X_TOGETHER",
+          "#TXT",
+          "이젠안녕",
+          "GoodbyeNow",
+          "015B",
+          "졸업",
+          "졸업식",
+          "졸업노래",
+          "졸업식노래",
+          "#SOOBIN",
+          "#YEONJUN",
+          "#BEOMGYU",
+          "#TAEHYUN",
+          "#HUENINGKAI",
+          "#수빈",
+          "#연준",
+          "#범규",
+          "#태현",
+          "#휴닝카이"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[OFFICIAL AUDIO] 투모로우바이투게더 - 이젠 안녕 :: 연애혁명 X 투모로우바이투게더",
+          "description": "[OFFICIAL AUDIO] 투모로우바이투게더 - 이젠 안녕 :: 연애혁명 X 투모로우바이투게더\nTOMORROW X TOGETHER - Goodbye Now :: Love Revolution OST\n\n[Lyrics]\n우리 처음 만났던\n어색했던 그 표정 속에\n서로 말 놓기가 어려워 망설였지만\n\n음악 속에 묻혀 지내 온\n수많은 나날들이\n이젠 돌아갈 수 없는 아쉬움 됐네\n\n이제는 우리가 서로\n떠나가야 할 시간\n아쉬움을 남긴 채 돌아서지만\n\n시간은 우리를\n다시 만나게 해 주겠지\n우리 그때까지 아쉽지만 기다려봐요\n\n어느 차가웁던 겨울날\n작은 방에 모여\n부르던 그 노랜 이젠\n\n기억 속에 묻혀진\n작은 노래 됐지만\n우리들 맘엔 영원히\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n이제는 우리가 서로\n떠나가야 할 시간\n아쉬움을 남긴 채 돌아서지만\n\n시간은 우리를\n다시 만나게 해 주겠지\n우리 그때까지 아쉽지만 기다려봐요\n\n어느 차가웁던 겨울날\n작은 방에 모여\n부르던 그 노랜 이젠\n\n기억 속에 묻혀진\n작은 노래 됐지만\n우리들 맘엔 영원히\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n안녕은 영원한 헤어짐은 아니겠지요\n다시 만나기 위한 약속일 거야\n\n함께 했던 시간은\n이젠 추억으로 남기고\n서로 가야할 길 찾아서 떠나야 해요\n\n\n#연애혁명 #투모로우바이투게더 #이젠안녕"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EqE2K9RVtKNysL-wsmWYOqIWws4",
+      "id": "BebTdnDZbDw",
+      "snippet": {
+        "publishedAt": "2023-02-21T09:30:03Z",
+        "channelId": "UCReO0narAXjFs59KFqqtE8g",
+        "title": "🚨최초 공개🚨 VIVO 송대표와 숙이사의 랜선 오피스 투어",
+        "description": "이 영상은 데스커의 유료 광고를 포함하고 있습니다.\n──────────────────\n\n은이와 숙이가 열심히 쌓아온 8년의 힘💪💪이 느껴지는 신사옥 투어!\n앞으로도 힘차게 달려볼테니 따뜻한 시선으로 지켜봐주세요🤗\n\n──────────────────\n💌 제작/협찬 및 비즈니스 문의: ad@vivolab.tv\n──────────────────\n비보티비 공식 인스타그램\n📍https://www.instagram.com/vivotv\n\n비보티비 트위터\n📍https://twitter.com/vivo119",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BebTdnDZbDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BebTdnDZbDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BebTdnDZbDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BebTdnDZbDw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BebTdnDZbDw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VIVO TV - 비보티비",
+        "tags": [
+          "셀럽파이브",
+          "songeuni",
+          "김숙",
+          "kimsook",
+          "金淑",
+          "비밀보장",
+          "팟캐스트",
+          "비보",
+          "컨텐츠랩비보",
+          "송은이",
+          "비보사옥",
+          "신사옥",
+          "비보신사옥",
+          "비보직원",
+          "상암동",
+          "VIVO",
+          "vivo",
+          "성공신화",
+          "오픈식",
+          "커팅식",
+          "사옥소개",
+          "집들이",
+          "랜선집들이",
+          "스튜디오",
+          "녹음실",
+          "편집실",
+          "데스커",
+          "데스커프리미엄",
+          "모션데스크프리미엄",
+          "올라운드체어",
+          "등받이",
+          "목받이",
+          "사무실가구",
+          "사무용품"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🚨최초 공개🚨 VIVO 송대표와 숙이사의 랜선 오피스 투어",
+          "description": "이 영상은 데스커의 유료 광고를 포함하고 있습니다.\n──────────────────\n\n은이와 숙이가 열심히 쌓아온 8년의 힘💪💪이 느껴지는 신사옥 투어!\n앞으로도 힘차게 달려볼테니 따뜻한 시선으로 지켜봐주세요🤗\n\n──────────────────\n💌 제작/협찬 및 비즈니스 문의: ad@vivolab.tv\n──────────────────\n비보티비 공식 인스타그램\n📍https://www.instagram.com/vivotv\n\n비보티비 트위터\n📍https://twitter.com/vivo119"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Cibqy_WBvzn4ZrGZGK7yGqifrs0",
+      "id": "fYPnypARX2Q",
+      "snippet": {
+        "publishedAt": "2023-02-23T09:00:20Z",
+        "channelId": "UCroM00J2ahCN6k-0-oAiDxg",
+        "title": "담 걸렸어 도와줘...",
+        "description": "221028, 221101, 221125, 221201, 221218, 221224, 221227\n담 걸렸어 도와줘...\n난 안 불편해\n영향력을 키운다\n과거 팬덤명\n요즘 기계놈들\n도시 여자 호소인\n둘기들한테 뭉뭉이 맡기기\n\n아이네 생방송: https://www.twitch.tv/vo_ine\n아이네 유튜브: https://www.youtube.com/@INE_\n아이네 다시보기: https://www.youtube.com/@INE_dasibogi\n왁물원: https://cafe.naver.com/steamindiegame\n인스타그램: https://www.instagram.com/ine_hamine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYPnypARX2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYPnypARX2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYPnypARX2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYPnypARX2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYPnypARX2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이네 INE",
+        "tags": [
+          "아이네",
+          "INE",
+          "우왁굳",
+          "왁타버스",
+          "이세돌",
+          "비챤",
+          "릴파",
+          "징버거",
+          "주르르",
+          "고세구",
+          "버튜버",
+          "Vtuber",
+          "버츄얼 유튜버",
+          "virtual YouTuber"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "담 걸렸어 도와줘...",
+          "description": "221028, 221101, 221125, 221201, 221218, 221224, 221227\n담 걸렸어 도와줘...\n난 안 불편해\n영향력을 키운다\n과거 팬덤명\n요즘 기계놈들\n도시 여자 호소인\n둘기들한테 뭉뭉이 맡기기\n\n아이네 생방송: https://www.twitch.tv/vo_ine\n아이네 유튜브: https://www.youtube.com/@INE_\n아이네 다시보기: https://www.youtube.com/@INE_dasibogi\n왁물원: https://cafe.naver.com/steamindiegame\n인스타그램: https://www.instagram.com/ine_hamine"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g_vR6IxNREDvhmWfoUM25Gt555c",
+      "id": "kk04GnTxFWQ",
+      "snippet": {
+        "publishedAt": "2023-02-19T22:00:13Z",
+        "channelId": "UCEg25rdRZXg32iwai6N6l0w",
+        "title": "HEUNG-MIN SON back to scoring ways in the Premier League | HIGHLIGHTS | Spurs 2-0 West Ham",
+        "description": "Watch highlights from Tottenham Hotspur's 2-0 win against West Ham in the Premier League\n\nSPURSPLAY is live! Check it out now ► https://bit.ly/3a9klBi\n\nSUBSCRIBE to ensure you don’t miss a video from the Spurs YouTube channel. Hit the bell to get notifications on our latest uploads! ► Subscribe: https://www.youtube.com/channel/UCEg25rdRZXg32iwai6N6l0w?sub_confirmation=1 \n\nFOLLOW US!\nInstagram: https://www.instagram.com/spursofficial/\nTwitch: https://www.twitch.tv/tottenhamhotspur/\nTikTok: https://www.tiktok.com/@spursofficial\nTwitter: https://twitter.com/SpursOfficial\nFacebook: https://www.facebook.com/TottenhamHotspur/\n\nDownload the Spurs App: https://www.tottenhamhotspur.com/spurs-official-app/\n\n#spurs #westham #premierleague",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kk04GnTxFWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kk04GnTxFWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kk04GnTxFWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kk04GnTxFWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kk04GnTxFWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tottenham Hotspur",
+        "tags": [
+          "Spurs",
+          "Tottenham Hotspur",
+          "토트넘",
+          "손흥민",
+          "Son goal",
+          "royal goal",
+          "son goal vs West Ham",
+          "Royal goal vs West Ham",
+          "Tottenham goals",
+          "Tottenham 2-0 West Ham",
+          "Spurs 2-0 West Ham",
+          "West Ham highlights",
+          "spurs highlights",
+          "Son",
+          "Heung-Min Son",
+          "Sonny",
+          "PL",
+          "Prem",
+          "PRemier League",
+          "EPL",
+          "Emerson Royal"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HEUNG-MIN SON back to scoring ways in the Premier League | HIGHLIGHTS | Spurs 2-0 West Ham",
+          "description": "Watch highlights from Tottenham Hotspur's 2-0 win against West Ham in the Premier League\n\nSPURSPLAY is live! Check it out now ► https://bit.ly/3a9klBi\n\nSUBSCRIBE to ensure you don’t miss a video from the Spurs YouTube channel. Hit the bell to get notifications on our latest uploads! ► Subscribe: https://www.youtube.com/channel/UCEg25rdRZXg32iwai6N6l0w?sub_confirmation=1 \n\nFOLLOW US!\nInstagram: https://www.instagram.com/spursofficial/\nTwitch: https://www.twitch.tv/tottenhamhotspur/\nTikTok: https://www.tiktok.com/@spursofficial\nTwitter: https://twitter.com/SpursOfficial\nFacebook: https://www.facebook.com/TottenhamHotspur/\n\nDownload the Spurs App: https://www.tottenhamhotspur.com/spurs-official-app/\n\n#spurs #westham #premierleague"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WqEUNH1GIymGW6XnUqvAEM_xFxo",
+      "id": "TN4NnAQXF2o",
+      "snippet": {
+        "publishedAt": "2023-02-23T13:00:11Z",
+        "channelId": "UCWaWvDRyhmSKOQWah7t7wuA",
+        "title": "[덱스의 냉터뷰] 김덱스가 X랑 환연3에 나가면 찐싸움이 난다고요?💥l EP.1 환승연애2 이지연 편",
+        "description": "#냉터뷰 #일일칠 #덱스 @dex101 \n#환승연애2 #이지연 @jjjohnnyeey0113 \n─\n00:00 (드디어) 덱스의 냉터뷰 시작!\n01:28 환승연애2 지연 등장\n03:17 새로운 규칙❗ 반모\n04:29 우리가 솔로지옥에서 만났다면?\n05:58 덱스에게 환승연애 섭외가 왔다면?\n06:38 지금 만나는 사람 있어?\n07:58 별명이 왜 덱쪽이야?\n08:26 지연 최애! 요거트볼 만들기🥣\n11:40 관리할 때 먹는 쿠키🍪\n14:30 환승연애, 솔로지옥이 남긴 후유증\n17:53 지연이가 준비한 레시피는?\n18:23 새로운 게임❗재료 맞히기💘\n19:30 알리오 올리오 파스타 만들기🍝\n24:44 환승연애, 솔로지옥 출연료가...?\n26:31 알리오 올리오 파스타 앙!\n28:44 오늘 재밌었어?\n29:10 포토 타임~✌🏻\n─\n🔽 지연이 추천하는 요거트 국밥 🔽\n[그릭데이] 그릭요거트 시그니처\n[HBAF] 매일 색다른 먼투썬 하루견과\n그래놀라 바이트 4종\nGAP 샤인머스캣\n[마이노멀] 알룰로스\n\n🔽 지연의 갓생 레시피 - 알리오 올리오 파스타 국밥 🔽\n[데체코] 구르메 파스타면\n[데체코] 엑스트라버진 올리브 오일\n[꾸악] 스페인 유기농 엑스트라버진\n[KF365] 깐마늘\n[허브&스파이스 마켓] 페페로치노 분쇄\n[이금기] 농축치킨스톡\n블랙타이거 새우살\n[파르네세] 파르미지아노 레지아노\n─\n117가지 맛있는 즐거움, 일일칠\n117 kinds of delicious pleasures, 117\n─\nPresented by 117 STUDIO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TN4NnAQXF2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TN4NnAQXF2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TN4NnAQXF2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TN4NnAQXF2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TN4NnAQXF2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일일칠 - 117",
+        "tags": [
+          "냉터뷰",
+          "일일칠",
+          "덱스의 냉터뷰",
+          "솔로지옥",
+          "환승연애",
+          "지연",
+          "덱스",
+          "UDT",
+          "유디티",
+          "덱스 슬기",
+          "덱스 솔로지옥",
+          "덱스 참호격투",
+          "덱스 지연",
+          "솔로지옥 지연",
+          "냉터뷰 환승연애",
+          "냉터뷰 덱스",
+          "일일칠 덱스"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[덱스의 냉터뷰] 김덱스가 X랑 환연3에 나가면 찐싸움이 난다고요?💥l EP.1 환승연애2 이지연 편",
+          "description": "#냉터뷰 #일일칠 #덱스 @dex101 \n#환승연애2 #이지연 @jjjohnnyeey0113 \n─\n00:00 (드디어) 덱스의 냉터뷰 시작!\n01:28 환승연애2 지연 등장\n03:17 새로운 규칙❗ 반모\n04:29 우리가 솔로지옥에서 만났다면?\n05:58 덱스에게 환승연애 섭외가 왔다면?\n06:38 지금 만나는 사람 있어?\n07:58 별명이 왜 덱쪽이야?\n08:26 지연 최애! 요거트볼 만들기🥣\n11:40 관리할 때 먹는 쿠키🍪\n14:30 환승연애, 솔로지옥이 남긴 후유증\n17:53 지연이가 준비한 레시피는?\n18:23 새로운 게임❗재료 맞히기💘\n19:30 알리오 올리오 파스타 만들기🍝\n24:44 환승연애, 솔로지옥 출연료가...?\n26:31 알리오 올리오 파스타 앙!\n28:44 오늘 재밌었어?\n29:10 포토 타임~✌🏻\n─\n🔽 지연이 추천하는 요거트 국밥 🔽\n[그릭데이] 그릭요거트 시그니처\n[HBAF] 매일 색다른 먼투썬 하루견과\n그래놀라 바이트 4종\nGAP 샤인머스캣\n[마이노멀] 알룰로스\n\n🔽 지연의 갓생 레시피 - 알리오 올리오 파스타 국밥 🔽\n[데체코] 구르메 파스타면\n[데체코] 엑스트라버진 올리브 오일\n[꾸악] 스페인 유기농 엑스트라버진\n[KF365] 깐마늘\n[허브&스파이스 마켓] 페페로치노 분쇄\n[이금기] 농축치킨스톡\n블랙타이거 새우살\n[파르네세] 파르미지아노 레지아노\n─\n117가지 맛있는 즐거움, 일일칠\n117 kinds of delicious pleasures, 117\n─\nPresented by 117 STUDIO"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5vfkcZ14Bpcv4qMUKZzGPOMOSxM",
+      "id": "FDkciHzrZyo",
+      "snippet": {
+        "publishedAt": "2023-02-21T13:59:58Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Run BTS! 2023 Special Episode - Mini Field Day Part 2",
+        "description": "#RunBTS #달려라방탄 #달방\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FDkciHzrZyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FDkciHzrZyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FDkciHzrZyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FDkciHzrZyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FDkciHzrZyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "BANGTANTV",
@@ -768,628 +1861,71 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "ko",
         "localized": {
-          "title": "Me, Myself, and Jimin ‘ID : Chaos’ Mood Sampler",
-          "description": "Me, Myself, and Jimin ‘ID : Chaos’ Mood Sampler\n#Photo_Folio #Jimin #BTS #방탄소년단\n\nArtist & Creator : Jimin\n\nProduction : Artist Contents Studio (HYBE 360)\nContents Creative : Bang Woo Jung\nPhoto-Folio Creative : \u200bKim Su Rin\nContents Director : \u200bJang Jeong In\nContents Coordinator: Sung Jang Soon\nContents Editor : Kim Su Rin, Kim Bom Saem\n\nCONTENTS PRODUCTION : PLAY COMPANY corp.\nCamera : Lee Jae Woong, Kim Dae Yong (PLAY COMPANY), Jang Hey Min, Jeong Ji Won (HYBE 360)\nPD : Lee So Jin, Kim Yun Su, Sunu Yun Jun\nAD : Lee Eun Jin\nVideo Edit : Sunu Yun Jun\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com"
+          "title": "Run BTS! 2023 Special Episode - Mini Field Day Part 2",
+          "description": "#RunBTS #달려라방탄 #달방\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
         },
         "defaultAudioLanguage": "ko"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dYJUtHcRwqbLwQS6mZRrf6ax8bA",
-      "id": "0Anx3VQ2dcc",
+      "etag": "kVp7FXCkjr1D92-sBt7X8pNbfw4",
+      "id": "5P9YmF-GjLI",
       "snippet": {
-        "publishedAt": "2022-09-23T19:00:00Z",
-        "channelId": "UCircJf-FlToBNjuy9xG-i5A",
-        "title": "The Death Tunnel of Waverly Hills Sanatorium • Ghost Files",
-        "description": "This one is for you.\n\nCONTENT WARNING: This video contains content that some might find disturbing. Viewer discretion is advised.  \n\nPossible triggers: mentions of emotional/physical distress, death by suicide.\n\nBloopers! Behind the scenes looks! Other exclusive content available at:\nhttps://www.patreon.com/watcher/\n\nWATCHER MERCH:\nhttps://watcherstore.com/\n\nCREATED BY\n Ryan Bergara\n\nPRODUCER\nLizzie Lockard\n\nDIRECTOR\nMark Celestino \n\nEDITOR\nAnthony Frederick\n\nHOSTED BY\nRyan Bergara\nShane Madej\n\nASSISTANT DIRECTOR\nTJ Marchbank\n\nPRODUCTION SUPERVISOR\nBrittney Lee\n\nPRODUCTION COORDINATOR\nCarter Lau\n\nRESEARCHER\nAlaina Rook\n\nGRIP & ELECTRIC\nJay Tran \n\nSOUND\nBen Forman\n\nDIT\n Adam Ung\n\nPRODUCTION DESIGNER\nBilly Jett\n\nSTUDIO CONCEPT ARTIST\nMegan Ho\n\nPOST PRODUCTION SUPERVISOR\nSam Young\n\nCREATIVE DIRECTOR OF POST PRODUCTION\nAnthony Frederick\n\nADDITIONAL EDITING\nSam Young\n\nASSISTANT EDITOR\nFrank Parker\n\nPARANORMAL FOOTAGE COMBER\nRebecca Castaneda\n\nGRAPHIC ARTIST\nNicholas Lai\n\nMOTION GRAPHICS ARTIST\nMark Celestino\n\nILLUSTRATOR\nMollie Ong\n\nMOTION GRAPHICS CONSULTANTS\nDynamic Fox Films\n\nLOGO DESIGN BY\nJennet Liaw\n\nSPECIAL THANKS\nWaverly Hills Sanitorium\nJames Ashenden\nKaitlyn Dodson & Marion Burgess\nDeanna & Mark Erskine\nRhiannon Graf\n\nSPECIAL THANKS\nJoanna Mackens\nSydney Owen\nJess Porter\nBraxtyn Rapp\nAnna Rogers\n\nHEAD OF DEVELOPMENT\nKatie LeBlanc\n\nHEAD OF PRODUCTION\nLizzie Lockard\n\nEXECUTIVE PRODUCERS\nRyan Bergara\nShane Madej\nSteven Lim \nKatie LeBlanc\n\nSocial\nhttp://www.instagram.com/wearewatcher\nhttp://www.twitter.com/wearewatcher\nhttps://www.facebook.com/watcherentertainment\nhttps://wearewatcher.tumblr.com/\n\nBusiness Inquiries: \nhello@watcherentertainment.com\n\nMusic Provided by Audio Network\nSFX by Audioblocks\nWatcher Logo Designed by Jennet Liaw\nWatcher Logo Sound Design by Yuta Endo (@yuuutaendo)\n\nWatcher. A network from Steven Lim, Ryan Bergara, and Shane Madej.",
+        "publishedAt": "2023-02-23T12:00:03Z",
+        "channelId": "UCfpaSruWW3S4dibonKXENjA",
+        "title": "🔥3.5kg 카레 다먹으면 공짜?!🔥 일본에서 사장님이 직접 보러오셨어요.. 도전먹방",
+        "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0Anx3VQ2dcc/default.jpg",
+            "url": "https://i.ytimg.com/vi/5P9YmF-GjLI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0Anx3VQ2dcc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5P9YmF-GjLI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0Anx3VQ2dcc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5P9YmF-GjLI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0Anx3VQ2dcc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/5P9YmF-GjLI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0Anx3VQ2dcc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5P9YmF-GjLI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Watcher",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "The Death Tunnel of Waverly Hills Sanatorium • Ghost Files",
-          "description": "This one is for you.\n\nCONTENT WARNING: This video contains content that some might find disturbing. Viewer discretion is advised.  \n\nPossible triggers: mentions of emotional/physical distress, death by suicide.\n\nBloopers! Behind the scenes looks! Other exclusive content available at:\nhttps://www.patreon.com/watcher/\n\nWATCHER MERCH:\nhttps://watcherstore.com/\n\nCREATED BY\n Ryan Bergara\n\nPRODUCER\nLizzie Lockard\n\nDIRECTOR\nMark Celestino \n\nEDITOR\nAnthony Frederick\n\nHOSTED BY\nRyan Bergara\nShane Madej\n\nASSISTANT DIRECTOR\nTJ Marchbank\n\nPRODUCTION SUPERVISOR\nBrittney Lee\n\nPRODUCTION COORDINATOR\nCarter Lau\n\nRESEARCHER\nAlaina Rook\n\nGRIP & ELECTRIC\nJay Tran \n\nSOUND\nBen Forman\n\nDIT\n Adam Ung\n\nPRODUCTION DESIGNER\nBilly Jett\n\nSTUDIO CONCEPT ARTIST\nMegan Ho\n\nPOST PRODUCTION SUPERVISOR\nSam Young\n\nCREATIVE DIRECTOR OF POST PRODUCTION\nAnthony Frederick\n\nADDITIONAL EDITING\nSam Young\n\nASSISTANT EDITOR\nFrank Parker\n\nPARANORMAL FOOTAGE COMBER\nRebecca Castaneda\n\nGRAPHIC ARTIST\nNicholas Lai\n\nMOTION GRAPHICS ARTIST\nMark Celestino\n\nILLUSTRATOR\nMollie Ong\n\nMOTION GRAPHICS CONSULTANTS\nDynamic Fox Films\n\nLOGO DESIGN BY\nJennet Liaw\n\nSPECIAL THANKS\nWaverly Hills Sanitorium\nJames Ashenden\nKaitlyn Dodson & Marion Burgess\nDeanna & Mark Erskine\nRhiannon Graf\n\nSPECIAL THANKS\nJoanna Mackens\nSydney Owen\nJess Porter\nBraxtyn Rapp\nAnna Rogers\n\nHEAD OF DEVELOPMENT\nKatie LeBlanc\n\nHEAD OF PRODUCTION\nLizzie Lockard\n\nEXECUTIVE PRODUCERS\nRyan Bergara\nShane Madej\nSteven Lim \nKatie LeBlanc\n\nSocial\nhttp://www.instagram.com/wearewatcher\nhttp://www.twitter.com/wearewatcher\nhttps://www.facebook.com/watcherentertainment\nhttps://wearewatcher.tumblr.com/\n\nBusiness Inquiries: \nhello@watcherentertainment.com\n\nMusic Provided by Audio Network\nSFX by Audioblocks\nWatcher Logo Designed by Jennet Liaw\nWatcher Logo Sound Design by Yuta Endo (@yuuutaendo)\n\nWatcher. A network from Steven Lim, Ryan Bergara, and Shane Madej."
-        },
-        "defaultAudioLanguage": "en-US"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3wdKF0kEDJrlfpo-5lWzBoIL6CM",
-      "id": "Ag-909TI-XY",
-      "snippet": {
-        "publishedAt": "2022-09-24T15:00:06Z",
-        "channelId": "UCJLZe_NoiG0hT7QCX_9vmqw",
-        "title": "I made your worst video ideas",
-        "description": "Get Honey for FREE today ▸ https://joinhoney.com/ididathing\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n\nTwitter: https://twitter.com/ididathing1\nDiscord: https://discord.gg/mppfmHW\nPatreon: https://www.patreon.com/user?u=13180179",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ag-909TI-XY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ag-909TI-XY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ag-909TI-XY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ag-909TI-XY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ag-909TI-XY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "I did a thing",
+        "channelTitle": "tzuyang쯔양",
         "tags": [
-          "science",
-          "education",
-          "comedy",
-          "i did a thing",
-          "mythbusters"
+          "real sound",
+          "리얼사운드",
+          "social eating",
+          "mukbang",
+          "eating show",
+          "먹방",
+          "맛집",
+          "카레",
+          "도전",
+          "도전먹방",
+          "다먹으면공짜",
+          "커리"
         ],
-        "categoryId": "24",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
         "localized": {
-          "title": "I made your worst video ideas",
-          "description": "Get Honey for FREE today ▸ https://joinhoney.com/ididathing\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n\nTwitter: https://twitter.com/ididathing1\nDiscord: https://discord.gg/mppfmHW\nPatreon: https://www.patreon.com/user?u=13180179"
+          "title": "🔥3.5kg 카레 다먹으면 공짜?!🔥 일본에서 사장님이 직접 보러오셨어요.. 도전먹방",
+          "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com"
         },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wFjIof_dmkAXXSykJy8tsNF2pOs",
-      "id": "b48AN_8wokU",
-      "snippet": {
-        "publishedAt": "2022-09-24T18:40:00Z",
-        "channelId": "UChmpTxQ0Gp8KEJKsqzeg9Lg",
-        "title": "Stranger Things Season 4 Bloopers | Netflix",
-        "description": "These bloopers could single-handedly save me from Vecna. Season 4 bloopers have officially dropped. Watch Stranger Things, only on Netflix.\r\n\r\nSUBSCRIBE: http://bit.ly/29qBUt7\r\n\r\nAbout Netflix:\r\nNetflix is the world's leading streaming entertainment service with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any Internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\r\n\r\nStranger Things Season 4 Bloopers | Netflix\r\nhttps://youtube.com/Netflix\r\n\r\nDivided by distance but ever determined, our scattered friends face a frightening future. But it's only the beginning. The beginning of the end.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b48AN_8wokU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b48AN_8wokU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b48AN_8wokU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b48AN_8wokU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b48AN_8wokU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Stranger Things",
-        "tags": [
-          "bloopers",
-          "caleb mclaughlin",
-          "charlie heaton",
-          "chief hopper",
-          "david harbour",
-          "dustin",
-          "eleven",
-          "finn wolfhard",
-          "gaten matarazzo",
-          "hopper",
-          "joe keery",
-          "jonathan byers",
-          "joyce byers",
-          "lucas sinclair",
-          "max stranger things",
-          "maya hawke",
-          "mike wheeler",
-          "millie bobby brown",
-          "nancy wheeler",
-          "natalia dyer",
-          "noah schnapp",
-          "robin stranger things",
-          "sadie sink",
-          "season 4 bloopers",
-          "st",
-          "st4",
-          "st4 bloopers",
-          "steve harrington",
-          "stranger things",
-          "stranger things 4",
-          "will byers",
-          "winona ryder"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Stranger Things Season 4 Bloopers | Netflix",
-          "description": "These bloopers could single-handedly save me from Vecna. Season 4 bloopers have officially dropped. Watch Stranger Things, only on Netflix.\r\n\r\nSUBSCRIBE: http://bit.ly/29qBUt7\r\n\r\nAbout Netflix:\r\nNetflix is the world's leading streaming entertainment service with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any Internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.\r\n\r\nStranger Things Season 4 Bloopers | Netflix\r\nhttps://youtube.com/Netflix\r\n\r\nDivided by distance but ever determined, our scattered friends face a frightening future. But it's only the beginning. The beginning of the end."
-        },
-        "defaultAudioLanguage": "en-US"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_5nHjG3VGuWQkVokmR0zFchLlbw",
-      "id": "_HaOfHYsFNo",
-      "snippet": {
-        "publishedAt": "2022-09-25T03:33:29Z",
-        "channelId": "UCVnjt9mMx46gMUeTtONXimQ",
-        "title": "Homes washed out to sea as Fiona slams Canada",
-        "description": "The hurricane that wreaked havoc in Puerto Rico and the Carribbean, is now classified as a post-tropical cyclone.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_HaOfHYsFNo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_HaOfHYsFNo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_HaOfHYsFNo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KENS 5: Your San Antonio News Source",
-        "tags": ["severe-weather", "weather"],
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Homes washed out to sea as Fiona slams Canada",
-          "description": "The hurricane that wreaked havoc in Puerto Rico and the Carribbean, is now classified as a post-tropical cyclone."
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "yIO8nK9SPddkBJztqEXFTqR6FP0",
-      "id": "NpdLgWVQIAM",
-      "snippet": {
-        "publishedAt": "2022-09-25T09:48:25Z",
-        "channelId": "UCnI3TuOg8D3SCRPW8ET4EAg",
-        "title": "Eliud Kipchoge Crushes The Marathon WORLD RECORD! || 2022 Berlin Marathon",
-        "description": "The GOAT is back and he's here to stay.\n====================================\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NpdLgWVQIAM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NpdLgWVQIAM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NpdLgWVQIAM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Total Running Productions",
-        "tags": [
-          "2022 berlin marathon",
-          "berlin marathon kipchoge",
-          "kipchoge world record",
-          "eliud kipchoge world record berlin",
-          "berlin world record",
-          "berlin",
-          "berlin marathon",
-          "kipchoge",
-          "eliud world record",
-          "kipchoge record marathon",
-          "marathon berlin 2022",
-          "2022 berlin marathon race",
-          "world record 2022 berlin"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Eliud Kipchoge Crushes The Marathon WORLD RECORD! || 2022 Berlin Marathon",
-          "description": "The GOAT is back and he's here to stay.\n====================================\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EbXHfhddRpd6OajIfywDHVHb9UU",
-      "id": "etbOmO9WJJI",
-      "snippet": {
-        "publishedAt": "2022-09-24T00:51:15Z",
-        "channelId": "UCYtNSrfGdXooZYu_hkq18_w",
-        "title": "Emotional Roger Federer's farewell interview in FULL 😢 | Laver Cup 2022 Moments",
-        "description": "I'm not crying, you're crying... Tennis great Roger Federer was in tears as he gave his final interview as a professional player following his Men's Doubles loss in the Laver Cup this morning. \n\nDownload beIN SPORTS CONNECT now to catch LIVE sporting action: https://bein.onelink.me/bApY/beinYT \nInstagram: https://www.instagram.com/beinsportsasia/\nFacebook: https://www.facebook.com/beinsportsasia",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/etbOmO9WJJI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/etbOmO9WJJI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/etbOmO9WJJI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/etbOmO9WJJI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "beIN SPORTS Asia",
-        "tags": ["Federer retires", "Laver Cup", "Roger Federer", "Tennis"],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Emotional Roger Federer's farewell interview in FULL 😢 | Laver Cup 2022 Moments",
-          "description": "I'm not crying, you're crying... Tennis great Roger Federer was in tears as he gave his final interview as a professional player following his Men's Doubles loss in the Laver Cup this morning. \n\nDownload beIN SPORTS CONNECT now to catch LIVE sporting action: https://bein.onelink.me/bApY/beinYT \nInstagram: https://www.instagram.com/beinsportsasia/\nFacebook: https://www.facebook.com/beinsportsasia"
-        }
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jJl65I6xkJA_9_3CH48Pu81paGw",
-      "id": "nXiyZ-cetBs",
-      "snippet": {
-        "publishedAt": "2022-09-25T15:00:23Z",
-        "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
-        "title": "Black Adam | Darkness | DC",
-        "description": "#BlackAdam in theaters on October 21. \n\nSubscribe To DC: https://bit.ly/3vDk4Ox \n#DC #DCComics\n\nConnect with DC Online: \nFollow DC on INSTAGRAM: https://bit.ly/3Sls2p4 \nLike DC on FACEBOOK: https://bit.ly/3oQVPs2 \nFollow DC on TWITTER: https://bit.ly/3oTsD3S \nVisit the DC WEBSITE: https://www.dc.com/ \nSubscribe to DC UNIVERSE INFINITE: https://bit.ly/3zAJZqX \nThe official home of Batman, Superman, Wonder Woman, Green Lantern, The Flash and the rest of The World's Greatest Super Heroes!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nXiyZ-cetBs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nXiyZ-cetBs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nXiyZ-cetBs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "DC",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Black Adam | Darkness | DC",
-          "description": "#BlackAdam in theaters on October 21. \n\nSubscribe To DC: https://bit.ly/3vDk4Ox \n#DC #DCComics\n\nConnect with DC Online: \nFollow DC on INSTAGRAM: https://bit.ly/3Sls2p4 \nLike DC on FACEBOOK: https://bit.ly/3oQVPs2 \nFollow DC on TWITTER: https://bit.ly/3oTsD3S \nVisit the DC WEBSITE: https://www.dc.com/ \nSubscribe to DC UNIVERSE INFINITE: https://bit.ly/3zAJZqX \nThe official home of Batman, Superman, Wonder Woman, Green Lantern, The Flash and the rest of The World's Greatest Super Heroes!"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "RAYIWuECRquHn9915kHKpfY7mYM",
-      "id": "QgGe6fsbbIw",
-      "snippet": {
-        "publishedAt": "2022-09-25T09:27:35Z",
-        "channelId": "UCv-GNHtqM97EaU_i7gN_Ikw",
-        "title": "I SCORED IN SIDEMEN CHARITY MATCH (Goals & Highlights REACTION)",
-        "description": "I SCORED IN SIDEMEN CHARITY MATCH (Goals & Highlights REACTION)\n\nSubscribe: https://bit.ly/2PGvXfx | 🔔Make sure to enable ALL push notifications!🔔\r\nWatch the NEWEST videos: https://bit.ly/2PzaVSY\r\n\r\n\r\nFollow Chunkz :\r\nInstagram: https://instagram.com/chunkz_en/\r\nTwitter: https://twitter.com/Chunkz_EN\r\nSnapChat: https://snapchat.com/add/Spicegg\r\n\r\n\r\nWatch more Chunkz :\r\n1V1 RAP BATTLE: https://bit.ly/2RY6Ar1\r\nCOOKING WITH CHUNKZ: https://bit.ly/2pWEXlc\r\n2V2 RAP BATTLE: https://bit.ly/2RYtyOH\r\nLatest Videos: https://bit.ly/2PzaVSY\r\nPopular Videos: https://bit.ly/2yGdppi",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QgGe6fsbbIw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QgGe6fsbbIw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QgGe6fsbbIw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QgGe6fsbbIw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QgGe6fsbbIw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chunkz",
-        "tags": [
-          "Chunkz Entertainment",
-          "comedy",
-          "family friendly",
-          "Funny Challenges Fun"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "I SCORED IN SIDEMEN CHARITY MATCH (Goals & Highlights REACTION)",
-          "description": "I SCORED IN SIDEMEN CHARITY MATCH (Goals & Highlights REACTION)\n\nSubscribe: https://bit.ly/2PGvXfx | 🔔Make sure to enable ALL push notifications!🔔\r\nWatch the NEWEST videos: https://bit.ly/2PzaVSY\r\n\r\n\r\nFollow Chunkz :\r\nInstagram: https://instagram.com/chunkz_en/\r\nTwitter: https://twitter.com/Chunkz_EN\r\nSnapChat: https://snapchat.com/add/Spicegg\r\n\r\n\r\nWatch more Chunkz :\r\n1V1 RAP BATTLE: https://bit.ly/2RY6Ar1\r\nCOOKING WITH CHUNKZ: https://bit.ly/2pWEXlc\r\n2V2 RAP BATTLE: https://bit.ly/2RYtyOH\r\nLatest Videos: https://bit.ly/2PzaVSY\r\nPopular Videos: https://bit.ly/2yGdppi"
-        },
-        "defaultAudioLanguage": "en-GB"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EBL5vmjUAsK2RGpz78Dii33Rog0",
-      "id": "Y-GEACeX744",
-      "snippet": {
-        "publishedAt": "2022-09-24T05:07:32Z",
-        "channelId": "UCoLrcjPV5PbUrUyXq5mjc_A",
-        "title": "A historic evening for Albert Pujols! He crushes home runs No. 699 AND 700 for his career!",
-        "description": "Albert Pujols makes history.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Y-GEACeX744/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Y-GEACeX744/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y-GEACeX744/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Y-GEACeX744/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Y-GEACeX744/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MLB",
-        "tags": [
-          "mlb",
-          "baseball",
-          "sports",
-          "mlb highlights",
-          "sports highlights",
-          "baseball highlights"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "A historic evening for Albert Pujols! He crushes home runs No. 699 AND 700 for his career!",
-          "description": "Albert Pujols makes history.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ll4yQvZzgeHCfaWHh8PRoxAP0wE",
-      "id": "_V-a3hzl97g",
-      "snippet": {
-        "publishedAt": "2022-09-25T11:15:30Z",
-        "channelId": "UChR1Yn7YpVrnP-SbsWtjuBA",
-        "title": "FIFA 23 Barcelona Career Mode EP1...",
-        "description": "FIFA 23 IS HERE! It's time to bring Barcelona back to top in FIFA 23!\nThis video is brought to you by the EA Creator Network.\n\nGet your PSN/Xbox Gift Cards...use 's2g10' for 10% discount!\nhttps://s2g.shop\n\nIt's free to LIKE the video so..SMASH that LIKE button!\nSUBSCRIBE for daily FIFA 23 content!\n\n►MoreS2G - https://www.youtube.com/channel/UCw9rjdrpHa7mzNrWVJoaPgw\n►Twitch - https://www.twitch.tv/thereals2g\n►Twitter - https://twitter.com/OfficialS2G\n►Instagram - https://www.instagram.com/officials2g\n\nEmail for Business Enquiries :-\nS2G@DigitalSportsMgmt.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_V-a3hzl97g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_V-a3hzl97g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_V-a3hzl97g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_V-a3hzl97g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_V-a3hzl97g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "S2G",
-        "tags": [
-          "Barcelona career mode",
-          "fifa 23 career mode",
-          "fifa 23",
-          "Barca career mode"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "FIFA 23 Barcelona Career Mode EP1...",
-          "description": "FIFA 23 IS HERE! It's time to bring Barcelona back to top in FIFA 23!\nThis video is brought to you by the EA Creator Network.\n\nGet your PSN/Xbox Gift Cards...use 's2g10' for 10% discount!\nhttps://s2g.shop\n\nIt's free to LIKE the video so..SMASH that LIKE button!\nSUBSCRIBE for daily FIFA 23 content!\n\n►MoreS2G - https://www.youtube.com/channel/UCw9rjdrpHa7mzNrWVJoaPgw\n►Twitch - https://www.twitch.tv/thereals2g\n►Twitter - https://twitter.com/OfficialS2G\n►Instagram - https://www.instagram.com/officials2g\n\nEmail for Business Enquiries :-\nS2G@DigitalSportsMgmt.com"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "k5Clv3cr-eoiQ6ZwiNkQegLnAOE",
-      "id": "rhctf92wgqU",
-      "snippet": {
-        "publishedAt": "2022-09-24T16:00:14Z",
-        "channelId": "UC_Av98lDjf5KvFib5elhpYg",
-        "title": "PUNTO 40 AÑO 2077 - Rauw Alejandro x Baby Rasta (Official Video)",
-        "description": "Rauw Alejandro x Baby Rasta \nPUNTO 40 (Official Video)\n\nSuscríbete al canal: https://goo.gl/Cqxmma\n\nSigue a Rauw:\nInstagram: https://www.instagram.com/rauwalejandro\nFacebook: https://www.facebook.com/rauwalejandro \nTwitter: https://twitter.com/rauwalejandro\n\nApple Music: https://RauwA.lnk.to/PUNTO40/applemusic \nSpotify: https://RauwA.lnk.to/PUNTO40/spotify \nAmazon: https://RauwA.lnk.to/PUNTO40/amazonmusicstreaming \nYouTube: https://RauwA.lnk.to/PUNTO40/youtube \niTunes: https://RauwA.lnk.to/PUNTO40/itunes \nDeezer: https://RauwA.lnk.to/PUNTO40/deezer \nTikTok: https://RauwA.lnk.to/PUNTO40/tiktokusemysound \nPandora: https://RauwA.lnk.to/PUNTO40/pandora\n\nLetra: \n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\n\nTengo una punto cuarenta \n\nCuarenta\nCuarenta\nCuarenta\nCuarenta\n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\n\nRa’ Rauw\nNo me la hagas usar\nTengo una punto cuarenta\nY una gata pa’ perreaL \nQue con ese culo \nEn lo oscuro, te revienta\nGuayando con esa mini tu estás abusando\nBellaqueando\nEstamos ignorando lo que está pasando\nBaby, tu si estás más dura\nQue la de ayer\nTírame la señal \nSi te quieres perder\nPor ahí comentan\nQue mal me quieren ver\nEnvidiosos, ¿dónde están?\nQue no se dejan ver\n\nNo me la hagan usar\nTengo una punto cuarenta y es para\nYo la quiero usar\nTengo una punto cuarenta y es para\nNo me la hagas usar\nTengo una punto cuarenta y es para\nYo la quiero usar\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \nTengo una punto cuarenta y es para\nNo me la hagan usar\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \nTengo una punto cuarenta y es para\nNo me la hagan usar\nTengo una punto cuarenta y es para\n\nYo, de nadie nunca me voy a dejar\nEsta noche la vamo’ a formar\nSomos los favoritos de la gente\nY ellos no mienten\nNo me odien\nSi estoy con ella\nTengo la más bella (yeah, yeah)\nYo, sí que puede que los borre\nSi la tocan a ella\nYo mato por ella (ah, ah)\nQuiero darte en four en la silla\nPon la rodilla\nY olvídate que te voy a dar con el reloj \nSin las manecillas\nTu estas bien pilla, shipete\nLe gustan los billetes\nY en un día fueron 5 veces\nLe cure la garganta \nY no fue con los teces\nElla se lo merece\nPorque esta sabrosa \nCrujiente, como tempura\nSe desaparece conmigo\nNo hay cobertura\nSi le doy de la pura\nPura calentura\n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nNo sé si podemos matarte\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \n\nRa’ Rauw\nCuarenta\nRauw Alejandro\nBaby Rasta\nCuarenta\nNosotros somos influyentes de la música\nCuarenta\nAnoten\nCuarenta\nKenobi\nMr NaisGai\nDimelo Colla\nThe Mother Fokin Senseis\n\n\n#RauwAlejandro #BabyRasta #Punto40\n\n(C) 2022 Sony Music Entertainment US Latin LLC/Duars Entertainment, Inc.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rhctf92wgqU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rhctf92wgqU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rhctf92wgqU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rhctf92wgqU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rhctf92wgqU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Rauw Alejandro",
-        "tags": [
-          "rauw alejandro",
-          "rauw",
-          "rauw alejandro 2020",
-          "rauw alejandro letra",
-          "rauw alejandro 2021",
-          "duars entertainment",
-          "alejandro",
-          "rauw alejandro videos",
-          "duars",
-          "letra rauw alejandro",
-          "rauw alejandro new",
-          "rauwalejandro",
-          "ra rauw",
-          "rauw 2020",
-          "rauw alejandro new song",
-          "punto 40",
-          ".40",
-          "baby rasta"
-        ],
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "PUNTO 40 AÑO 2077 - Rauw Alejandro x Baby Rasta (Official Video)",
-          "description": "Rauw Alejandro x Baby Rasta \nPUNTO 40 (Official Video)\n\nSuscríbete al canal: https://goo.gl/Cqxmma\n\nSigue a Rauw:\nInstagram: https://www.instagram.com/rauwalejandro\nFacebook: https://www.facebook.com/rauwalejandro \nTwitter: https://twitter.com/rauwalejandro\n\nApple Music: https://RauwA.lnk.to/PUNTO40/applemusic \nSpotify: https://RauwA.lnk.to/PUNTO40/spotify \nAmazon: https://RauwA.lnk.to/PUNTO40/amazonmusicstreaming \nYouTube: https://RauwA.lnk.to/PUNTO40/youtube \niTunes: https://RauwA.lnk.to/PUNTO40/itunes \nDeezer: https://RauwA.lnk.to/PUNTO40/deezer \nTikTok: https://RauwA.lnk.to/PUNTO40/tiktokusemysound \nPandora: https://RauwA.lnk.to/PUNTO40/pandora\n\nLetra: \n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\n\nTengo una punto cuarenta \n\nCuarenta\nCuarenta\nCuarenta\nCuarenta\n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\n\nRa’ Rauw\nNo me la hagas usar\nTengo una punto cuarenta\nY una gata pa’ perreaL \nQue con ese culo \nEn lo oscuro, te revienta\nGuayando con esa mini tu estás abusando\nBellaqueando\nEstamos ignorando lo que está pasando\nBaby, tu si estás más dura\nQue la de ayer\nTírame la señal \nSi te quieres perder\nPor ahí comentan\nQue mal me quieren ver\nEnvidiosos, ¿dónde están?\nQue no se dejan ver\n\nNo me la hagan usar\nTengo una punto cuarenta y es para\nYo la quiero usar\nTengo una punto cuarenta y es para\nNo me la hagas usar\nTengo una punto cuarenta y es para\nYo la quiero usar\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \nTengo una punto cuarenta y es para\nNo me la hagan usar\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \nTengo una punto cuarenta y es para\nNo me la hagan usar\nTengo una punto cuarenta y es para\n\nYo, de nadie nunca me voy a dejar\nEsta noche la vamo’ a formar\nSomos los favoritos de la gente\nY ellos no mienten\nNo me odien\nSi estoy con ella\nTengo la más bella (yeah, yeah)\nYo, sí que puede que los borre\nSi la tocan a ella\nYo mato por ella (ah, ah)\nQuiero darte en four en la silla\nPon la rodilla\nY olvídate que te voy a dar con el reloj \nSin las manecillas\nTu estas bien pilla, shipete\nLe gustan los billetes\nY en un día fueron 5 veces\nLe cure la garganta \nY no fue con los teces\nElla se lo merece\nPorque esta sabrosa \nCrujiente, como tempura\nSe desaparece conmigo\nNo hay cobertura\nSi le doy de la pura\nPura calentura\n\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nNo sé si podemos matarte\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta\nTengo una punto cuarenta y es para\nTengo una punto cuarenta y es para\nTengo una punto cuarenta \n\nRa’ Rauw\nCuarenta\nRauw Alejandro\nBaby Rasta\nCuarenta\nNosotros somos influyentes de la música\nCuarenta\nAnoten\nCuarenta\nKenobi\nMr NaisGai\nDimelo Colla\nThe Mother Fokin Senseis\n\n\n#RauwAlejandro #BabyRasta #Punto40\n\n(C) 2022 Sony Music Entertainment US Latin LLC/Duars Entertainment, Inc."
-        },
-        "defaultAudioLanguage": "es"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M75tigxhQNHI84300gy1nvdJJgw",
-      "id": "qUTALdx7F1c",
-      "snippet": {
-        "publishedAt": "2022-09-25T11:00:21Z",
-        "channelId": "UCke6I9N4KfC968-yRcd5YRg",
-        "title": "Among Us Fall Guys Mod",
-        "description": "We play Among Us Fall Guys in Modded Among Us! \n\n☞  Subscribe & click the bell \nSubscribe ➡ https://www.youtube.com/user/SSundee?sub_confirmation=1\n\n=== ϟ || Friends || ϟ ===\n⭑ @Nicovald \n⭑@helloiamkate \n⭑ @PatP \n⭑ @Biffle \n⭑ @Lookumz \n⭑ @Zud \n⭑ @Sigils \n⭑ @Henwy \n\nMod By https://doublejump.com\n\n• Video Editor ► Russell\nhttps://www.youtube.com/russelledits\n\n• Thumbnail Maker ► Flash\nhttps://www.youtube.com/channel/UCLy01oVLarj7RNQm52jnGKw\n\n• Animator ► David\nhttps://www.youtube.com/channel/UCxSSIQevKsx2bFc_Gn4WAMg?view_as=subscriber\n\n• Discord: https://discord.gg/ssundee\n\n\u200b\u200b• Music by Ninety9 ► LivesTobu - Such Fun\nVideo Link: https://www.youtube.com/watch?v=d3Oc26AFDdU\nChannel: https://99l.tv/Subscribe\nDownload the album! https://99l.tv/Levelup-i\n\n#ssundee #amongus  #gaming \n\nThanks for watching!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qUTALdx7F1c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qUTALdx7F1c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qUTALdx7F1c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qUTALdx7F1c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qUTALdx7F1c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSundee",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Among Us Fall Guys Mod",
-          "description": "We play Among Us Fall Guys in Modded Among Us! \n\n☞  Subscribe & click the bell \nSubscribe ➡ https://www.youtube.com/user/SSundee?sub_confirmation=1\n\n=== ϟ || Friends || ϟ ===\n⭑ @Nicovald \n⭑@helloiamkate \n⭑ @PatP \n⭑ @Biffle \n⭑ @Lookumz \n⭑ @Zud \n⭑ @Sigils \n⭑ @Henwy \n\nMod By https://doublejump.com\n\n• Video Editor ► Russell\nhttps://www.youtube.com/russelledits\n\n• Thumbnail Maker ► Flash\nhttps://www.youtube.com/channel/UCLy01oVLarj7RNQm52jnGKw\n\n• Animator ► David\nhttps://www.youtube.com/channel/UCxSSIQevKsx2bFc_Gn4WAMg?view_as=subscriber\n\n• Discord: https://discord.gg/ssundee\n\n\u200b\u200b• Music by Ninety9 ► LivesTobu - Such Fun\nVideo Link: https://www.youtube.com/watch?v=d3Oc26AFDdU\nChannel: https://99l.tv/Subscribe\nDownload the album! https://99l.tv/Levelup-i\n\n#ssundee #amongus  #gaming \n\nThanks for watching!"
-        },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "ko"
       }
     }
   ],
