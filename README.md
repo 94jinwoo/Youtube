@@ -1,6 +1,6 @@
 # Youtube Clone Coding
 
-### 리액트 개인 공부 프로젝트
+### 리액트 공부 개인 프로젝트
 
 ### <https://94jinwoo-youtube.netlify.app>
 
